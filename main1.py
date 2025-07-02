@@ -627,10 +627,11 @@ def timetable_and_combine():
                     print(f"⚠️ Σφάλμα στην ανάγνωση του {file_path}: {e}")
 
     if all_dfs:
-        combined_df = pd.concat(all_dfs, ignore_index=True)
         # προσθηκη ημερομηνιας στο ονομα αρχειου
+
+        combined_df = pd.concat(all_dfs, ignore_index=True)
         timestamp = datetime.now().strftime('%Y%m%d_%H%M')
-        combined_output_path = f'output/combined_all_timetables_{timestamp}.csv'
+        combined_output_path = f'output/{timestamp}_combined_all_timetables.csv'
         #combined_output_path = 'output/combined_all_timetables.csv'
         os.makedirs(os.path.dirname(combined_output_path), exist_ok=True)
         combined_df.to_csv(combined_output_path, sep=';', index=False, encoding='utf-8')
@@ -651,12 +652,12 @@ def clean_blocks_dir():
 
 
 
-def blocks_and_mergedDepotDaytype():
+def blocks_and_mergedDepotDaytype(combined_output_path):
     print("▶ Δημιουργία Blocks...")
     # read days_mapping and for each correct_depot , for each operacting ( of selected correct depot) create a file for block ( same logic as before) ->  (correct_depot + OPERATINGDAY + DayType).csv
     # at the end we merge all csv into one for same correct_depot and Daytype
 
-    combined_output_path = 'output/combined_all_timetables.csv'
+    #combined_output_path = 'output/{timestamp}_combined_all_timetables.csv'
     mapping_path = 'output/expanded_days_mapping.csv'
     blocks_dir = "blocks-output"
     timetable_df = pd.read_csv(combined_output_path, sep=';', dtype=str)
@@ -684,7 +685,7 @@ def blocks_and_mergedDepotDaytype():
         #     print(f"⚠️ Δεν βρέθηκαν εγγραφές για {depot}, {op_day}, {day_type}")
         #     continue
 
-        if ((mapping_df['correct_depot'] == depot) & (mapping_df['OPERATINGDAY'] == op_day)).any():
+        if ((timetable_df['correct_depot'] == depot) & (timetable_df['OPERATINGDAY'] == op_day)).any():
 
             subset = timetable_df[
                 (timetable_df['correct_depot'] == depot) &
@@ -779,6 +780,7 @@ def blocks_and_mergedDepotDaytype():
     for (depot, day_type), paths in groups.items():
         dfs = [pd.read_csv(p, sep=';', dtype=str) for p in paths]
         merged = pd.concat(dfs, ignore_index=True)
+        #daytime sto onoma arxeiou
         timestamp = datetime.now().strftime('%Y%m%d_%H%M')
         out_name = f"{depot}_{day_type}_combined_{timestamp}.csv".replace(" ", "_")
         # προσθηκη ημερομηνιας στο ονομα αρχειου
@@ -1185,7 +1187,9 @@ def create_depot_timetables(combined_output_path):
     timetable = timetable.drop(columns=['Depot'])
     timetable = timetable.drop(columns=['wrong_depot'])
 
-    timetable.to_csv("output/combined_all_timetables.csv", sep=';', index=False, encoding='utf-8')
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M')
+    #combined_output_path = 'output/{timestamp}_combined_all_timetables.csv'
+    timetable.to_csv(f"output/{timestamp}_combined_all_timetables.csv", sep=';', index=False, encoding='utf-8')
 
 
 def after_insert_day_type():
@@ -1214,12 +1218,14 @@ def after_insert_day_type():
 if __name__ == '__main__':
 
 
-    #clean_timetable_dir()
+    clean_timetable_dir()
     ######## take new pattern-patternAttribute csv!!!!! export maior network
-    #timetable_and_combine()
+    timetable_and_combine()
 
     #-----createdepot sthlh telos timetable.csv apo patternAttributes
-    #create_depot_timetables(combined_output_path='output/combined_all_timetables.csv')
+    timestamp = datetime.now().strftime('%Y%m%d_%H%M')
+    combined_output_path = f'output/{timestamp}_combined_all_timetables.csv'
+    create_depot_timetables(combined_output_path)
 
     #create_days_mapping_file( combined_csv_path='output/combined_all_timetables.csv',output_txt_path='output/days_mapping.txt')
 
@@ -1234,7 +1240,7 @@ if __name__ == '__main__':
     #update_days_mapping_from_static(mapping_txt_path='output/days_mapping.txt',static_csv_path='static/Operating_Days.csv')
 
     clean_blocks_dir()
-    blocks_and_mergedDepotDaytype()
+    blocks_and_mergedDepotDaytype(combined_output_path)
 
     #clean_duties_dir()
     #setup_log()
