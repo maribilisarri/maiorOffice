@@ -1,0 +1,6 @@
+2025-06-25 17:14:35,047 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2107 στο short_Stavroupoli_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 17:14:35,115 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2107 στο short_Stavroupoli_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 17:14:35,264 - WARNING - ⚠️ Παράλειψη.Δεν υπάρχει 79Χ01  S_Depot  Day Type 1 στο short_S_Depot_Day_Type_1_Duties_.csv.ενω υπαρχει στο αρχειο deadhead, (δεν βρέθηκε deadhead)
+2025-06-25 17:14:35,279 - WARNING - ⚠️ Παράλειψη.Δεν υπάρχει 79Χ01  S_Depot  Day Type 2 στο short_S_Depot_Day_Type_2_Duties_.csv.ενω υπαρχει στο αρχειο deadhead, (δεν βρέθηκε deadhead)
+2025-06-25 17:14:35,296 - WARNING - ⚠️ Παράλειψη.Δεν υπάρχει 79Χ01  S_Depot  Day Type 3 στο short_S_Depot_Day_Type_3_Duties_.csv.ενω υπαρχει στο αρχειο deadhead, (δεν βρέθηκε deadhead)
+2025-06-25 17:14:35,314 - WARNING - ⚠️ Παράλειψη.Δεν υπάρχει 79Χ01  S_Depot  Day Type 4 στο short_S_Depot_Day_Type_4_Duties_.csv.ενω υπαρχει στο αρχειο deadhead, (δεν βρέθηκε deadhead)

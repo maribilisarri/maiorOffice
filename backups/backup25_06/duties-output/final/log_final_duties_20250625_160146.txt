@@ -1,0 +1,582 @@
+2025-06-25 16:01:47,124 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 5001 στο short_Foinika_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:47,754 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 5001 στο short_Foinika_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:48,342 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 5001 στο short_Foinika_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:48,412 - WARNING - ⚠️ Παράλειψη 701 ή Foinika ή Day Type 3 στο short_Foinika_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:48,422 - WARNING - ⚠️ Παράλειψη 702 ή Foinika ή Day Type 3 στο short_Foinika_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:48,426 - WARNING - ⚠️ Παράλειψη 703 ή Foinika ή Day Type 3 στο short_Foinika_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:48,430 - WARNING - ⚠️ Παράλειψη 704 ή Foinika ή Day Type 3 στο short_Foinika_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:48,835 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 312 στο short_Foinika_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:48,904 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 5001 στο short_Foinika_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:49,485 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 5001 στο short_Foinika_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:50,408 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν01 στο short_Stavroupoli_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:50,412 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν02 στο short_Stavroupoli_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:50,416 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν03 στο short_Stavroupoli_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:50,454 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 3408 στο short_Stavroupoli_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:50,548 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7811 στο short_Stavroupoli_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:50,553 - WARNING - ⚠️ Παράλειψη 7812 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,557 - WARNING - ⚠️ Παράλειψη 7813 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,561 - WARNING - ⚠️ Παράλειψη 7814 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,566 - WARNING - ⚠️ Παράλειψη 7815 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,583 - WARNING - ⚠️ Παράλειψη Χ104 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,588 - WARNING - ⚠️ Παράλειψη Χ105 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,592 - WARNING - ⚠️ Παράλειψη Χ106 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,596 - WARNING - ⚠️ Παράλειψη Χ107 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,600 - WARNING - ⚠️ Παράλειψη Χ108 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,605 - WARNING - ⚠️ Παράλειψη Χ109 ή Stavroupoli ή Day Type 1 στο short_Stavroupoli_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:50,700 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν01 Stavroupoli Day Type 1 
+2025-06-25 16:01:50,700 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:50,700 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν02 Stavroupoli Day Type 1 
+2025-06-25 16:01:50,700 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:50,700 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν03 Stavroupoli Day Type 1 
+2025-06-25 16:01:50,701 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:50,706 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N9008 του3408 Stavroupoli Day Type 1 
+2025-06-25 16:01:50,706 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N9008
+2025-06-25 16:01:50,721 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N36013 του7811 Stavroupoli Day Type 1 
+2025-06-25 16:01:50,721 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N36013
+2025-06-25 16:01:51,233 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν01 στο short_Stavroupoli_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:51,237 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν02 στο short_Stavroupoli_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:51,242 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν03 στο short_Stavroupoli_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:51,275 - WARNING - ⚠️ Παράλειψη 3407 ή Stavroupoli ή Day Type 2 στο short_Stavroupoli_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:51,280 - WARNING - ⚠️ Παράλειψη 3408 ή Stavroupoli ή Day Type 2 στο short_Stavroupoli_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:51,457 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν01 Stavroupoli Day Type 2 
+2025-06-25 16:01:51,457 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:51,457 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν02 Stavroupoli Day Type 2 
+2025-06-25 16:01:51,457 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:51,457 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν03 Stavroupoli Day Type 2 
+2025-06-25 16:01:51,458 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:51,654 - WARNING - ⚠️ Παράλειψη 1803 ή Stavroupoli ή Day Type 3 στο short_Stavroupoli_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:51,675 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 1904 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:51,705 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2006 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:51,855 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2708 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:51,915 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2808 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,008 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν01 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,012 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν02 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,017 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν03 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,061 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 3407 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,092 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 3506 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,160 - WARNING - ⚠️ Παράλειψη 5201 ή Stavroupoli ή Day Type 3 στο short_Stavroupoli_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,166 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7811 στο short_Stavroupoli_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,170 - WARNING - ⚠️ Παράλειψη 7812 ή Stavroupoli ή Day Type 3 στο short_Stavroupoli_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,174 - WARNING - ⚠️ Παράλειψη 7813 ή Stavroupoli ή Day Type 3 στο short_Stavroupoli_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,179 - WARNING - ⚠️ Παράλειψη 7814 ή Stavroupoli ή Day Type 3 στο short_Stavroupoli_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,184 - WARNING - ⚠️ Παράλειψη 7815 ή Stavroupoli ή Day Type 3 στο short_Stavroupoli_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,272 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1335 του1904 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,272 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N3018
+2025-06-25 16:01:52,276 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4068 του2006 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,276 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4068
+2025-06-25 16:01:52,296 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11024 του2708 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,296 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:52,302 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11048 του2808 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,302 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11048
+2025-06-25 16:01:52,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν01 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:52,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν02 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:52,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν03 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:52,321 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N9008 του3407 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,321 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N9008
+2025-06-25 16:01:52,325 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1335 του3506 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,325 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N10066
+2025-06-25 16:01:52,332 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N36013 του7811 Stavroupoli Day Type 3 
+2025-06-25 16:01:52,332 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N36013
+2025-06-25 16:01:52,454 - WARNING - ⚠️ Παράλειψη 1802 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,458 - WARNING - ⚠️ Παράλειψη 1803 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,607 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2706 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,642 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 2808 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,683 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 3005 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,723 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν01 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,728 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν02 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,732 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 32Ν03 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,762 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 3407 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,824 - WARNING - ⚠️ Παράλειψη 5201 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,828 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7811 στο short_Stavroupoli_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:52,832 - WARNING - ⚠️ Παράλειψη 7812 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,837 - WARNING - ⚠️ Παράλειψη 7813 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,841 - WARNING - ⚠️ Παράλειψη 7814 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,845 - WARNING - ⚠️ Παράλειψη 7815 ή Stavroupoli ή Day Type 4 στο short_Stavroupoli_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:52,936 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11024 του2706 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,936 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:52,942 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11048 του2808 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,942 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11048
+2025-06-25 16:01:52,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N2001 του3005 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N2001
+2025-06-25 16:01:52,955 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν01 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,955 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:52,955 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν02 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,955 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:52,955 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του32Ν03 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,956 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:52,960 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N9008 του3407 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,960 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N9008
+2025-06-25 16:01:52,971 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N36013 του7811 Stavroupoli Day Type 4 
+2025-06-25 16:01:52,971 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N36013
+2025-06-25 16:01:53,044 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6002 στο short_S_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,058 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6103 στο short_S_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,139 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6908 στο short_S_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,170 - WARNING - ⚠️ Παράλειψη 79Χ01 ή S_Depot ή Day Type 1 στο short_S_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:53,270 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6002 στο short_S_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,285 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6103 στο short_S_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,367 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6908 στο short_S_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,401 - WARNING - ⚠️ Παράλειψη 79Χ01 ή S_Depot ή Day Type 2 στο short_S_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:53,486 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6002 στο short_S_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,494 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6102 στο short_S_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,499 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6103 στο short_S_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,576 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6908 στο short_S_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,607 - WARNING - ⚠️ Παράλειψη 79Χ01 ή S_Depot ή Day Type 3 στο short_S_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:53,682 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6002 στο short_S_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,691 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6102 στο short_S_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,696 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6103 στο short_S_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,772 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6908 στο short_S_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,805 - WARNING - ⚠️ Παράλειψη 79Χ01 ή S_Depot ή Day Type 4 στο short_S_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:53,907 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 6103 στο short_S_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:53,988 - WARNING - ⚠️ Παράλειψη 36Χ01 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:53,992 - WARNING - ⚠️ Παράλειψη 36Χ02 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:53,996 - WARNING - ⚠️ Παράλειψη 36Χ03 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,000 - WARNING - ⚠️ Παράλειψη 36Χ04 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,032 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y01 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,036 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y02 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,041 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y03 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,045 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y04 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,078 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y01 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,082 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y02 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,087 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y03 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,091 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y04 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,119 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,123 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,190 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y01 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,195 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y02 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,226 - WARNING - ⚠️ Παράλειψη 5607 ή T_Depot ή Day Type 1 στο short_T_Depot_Day_Type_1_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,267 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,272 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,276 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,281 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,285 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,290 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,294 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,299 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,303 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,308 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,422 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8310 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,436 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8311 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,623 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 9104 στο short_T_Depot_Day_Type_1_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,770 - WARNING - ⚠️ Παράλειψη 36Χ01 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,774 - WARNING - ⚠️ Παράλειψη 36Χ02 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,779 - WARNING - ⚠️ Παράλειψη 36Χ03 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,783 - WARNING - ⚠️ Παράλειψη 36Χ04 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,817 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y01 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,822 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y02 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,826 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y03 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,831 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y04 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,864 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y01 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,869 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y02 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,874 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y03 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,878 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y04 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,905 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,910 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,951 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y01 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,955 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y02 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:54,983 - WARNING - ⚠️ Παράλειψη 5606 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:54,987 - WARNING - ⚠️ Παράλειψη 5607 ή T_Depot ή Day Type 2 στο short_T_Depot_Day_Type_2_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,029 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,034 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,038 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,043 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,047 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,051 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,056 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,061 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,065 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,070 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,170 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8310 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,174 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8311 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,282 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 9104 στο short_T_Depot_Day_Type_2_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,311 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y01 T_Depot Day Type 2 
+2025-06-25 16:01:55,311 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:55,311 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y02 T_Depot Day Type 2 
+2025-06-25 16:01:55,311 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:55,311 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y03 T_Depot Day Type 2 
+2025-06-25 16:01:55,311 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:55,312 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y04 T_Depot Day Type 2 
+2025-06-25 16:01:55,312 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:55,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y01 T_Depot Day Type 2 
+2025-06-25 16:01:55,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:55,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y02 T_Depot Day Type 2 
+2025-06-25 16:01:55,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:55,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y03 T_Depot Day Type 2 
+2025-06-25 16:01:55,316 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:55,317 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y04 T_Depot Day Type 2 
+2025-06-25 16:01:55,317 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:55,326 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του55Y01 T_Depot Day Type 2 
+2025-06-25 16:01:55,326 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:55,326 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11024 του55Y02 T_Depot Day Type 2 
+2025-06-25 16:01:55,326 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του701 T_Depot Day Type 2 
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του702 T_Depot Day Type 2 
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του703 T_Depot Day Type 2 
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,338 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του704 T_Depot Day Type 2 
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του705 T_Depot Day Type 2 
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7101 T_Depot Day Type 2 
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7102 T_Depot Day Type 2 
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7103 T_Depot Day Type 2 
+2025-06-25 16:01:55,339 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,340 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7104 T_Depot Day Type 2 
+2025-06-25 16:01:55,340 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,340 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7105 T_Depot Day Type 2 
+2025-06-25 16:01:55,340 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:55,370 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26201 του8310 T_Depot Day Type 2 
+2025-06-25 16:01:55,370 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:01:55,371 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1134 του8311 T_Depot Day Type 2 
+2025-06-25 16:01:55,371 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1134
+2025-06-25 16:01:55,389 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26212 του9104 T_Depot Day Type 2 
+2025-06-25 16:01:55,389 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:01:55,428 - WARNING - ⚠️ Παράλειψη 36Χ01 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,434 - WARNING - ⚠️ Παράλειψη 36Χ02 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,438 - WARNING - ⚠️ Παράλειψη 36Χ03 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,442 - WARNING - ⚠️ Παράλειψη 36Χ04 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,474 - WARNING - ⚠️ Παράλειψη 4301 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,478 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y01 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,486 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y02 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,491 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y03 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,497 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y04 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,532 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y01 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,537 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y02 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,542 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y03 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,548 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y04 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,581 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,586 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:55,634 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y01 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,639 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y02 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,753 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,758 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,763 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,769 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,775 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,781 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,787 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,793 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,799 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,804 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,937 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8310 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:55,941 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8311 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,031 - WARNING - ⚠️ Παράλειψη 901 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:56,036 - WARNING - ⚠️ Παράλειψη 902 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:56,054 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 9104 στο short_T_Depot_Day_Type_3_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,068 - WARNING - ⚠️ Παράλειψη 9201 ή T_Depot ή Day Type 3 στο short_T_Depot_Day_Type_3_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:56,110 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y01 T_Depot Day Type 3 
+2025-06-25 16:01:56,110 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:56,110 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y02 T_Depot Day Type 3 
+2025-06-25 16:01:56,111 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:56,111 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y03 T_Depot Day Type 3 
+2025-06-25 16:01:56,111 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:56,113 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y04 T_Depot Day Type 3 
+2025-06-25 16:01:56,113 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:56,121 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y01 T_Depot Day Type 3 
+2025-06-25 16:01:56,121 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:56,121 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y02 T_Depot Day Type 3 
+2025-06-25 16:01:56,122 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:56,122 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y03 T_Depot Day Type 3 
+2025-06-25 16:01:56,122 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:56,122 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y04 T_Depot Day Type 3 
+2025-06-25 16:01:56,122 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:56,143 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του55Y01 T_Depot Day Type 3 
+2025-06-25 16:01:56,143 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:56,143 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11024 του55Y02 T_Depot Day Type 3 
+2025-06-25 16:01:56,143 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:56,205 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του701 T_Depot Day Type 3 
+2025-06-25 16:01:56,205 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,206 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του702 T_Depot Day Type 3 
+2025-06-25 16:01:56,206 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,206 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του703 T_Depot Day Type 3 
+2025-06-25 16:01:56,206 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του704 T_Depot Day Type 3 
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του705 T_Depot Day Type 3 
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7101 T_Depot Day Type 3 
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,207 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7102 T_Depot Day Type 3 
+2025-06-25 16:01:56,208 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,208 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7103 T_Depot Day Type 3 
+2025-06-25 16:01:56,208 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,208 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7104 T_Depot Day Type 3 
+2025-06-25 16:01:56,208 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,209 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7105 T_Depot Day Type 3 
+2025-06-25 16:01:56,209 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:56,249 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26201 του8310 T_Depot Day Type 3 
+2025-06-25 16:01:56,249 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:01:56,250 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1134 του8311 T_Depot Day Type 3 
+2025-06-25 16:01:56,250 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1134
+2025-06-25 16:01:56,277 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26212 του9104 T_Depot Day Type 3 
+2025-06-25 16:01:56,277 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:01:56,514 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ01 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,525 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ02 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,536 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ03 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,546 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ04 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,623 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y01 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,633 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y02 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,643 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y03 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,655 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y04 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,737 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y01 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,750 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y02 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,760 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y03 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,770 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y04 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:56,861 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 4 στο short_T_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:56,883 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 4 στο short_T_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:57,882 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y01 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:57,891 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y02 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,106 - WARNING - ⚠️ Παράλειψη 5604 ή T_Depot ή Day Type 4 στο short_T_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:58,239 - WARNING - ⚠️ Παράλειψη 5605 ή T_Depot ή Day Type 4 στο short_T_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:58,332 - WARNING - ⚠️ Παράλειψη 5606 ή T_Depot ή Day Type 4 στο short_T_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:58,360 - WARNING - ⚠️ Παράλειψη 5607 ή T_Depot ή Day Type 4 στο short_T_Depot_Day_Type_4_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:58,559 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,569 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,579 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,586 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,594 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,604 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,613 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,623 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,632 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,639 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,755 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8310 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,760 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8311 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,885 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 9104 στο short_T_Depot_Day_Type_4_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:58,913 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N2001 του36Χ01 T_Depot Day Type 4 
+2025-06-25 16:01:58,913 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:01:58,913 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του36Χ02 T_Depot Day Type 4 
+2025-06-25 16:01:58,913 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:01:58,914 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N2001 του36Χ03 T_Depot Day Type 4 
+2025-06-25 16:01:58,914 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:01:58,914 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του36Χ04 T_Depot Day Type 4 
+2025-06-25 16:01:58,914 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:01:58,918 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y01 T_Depot Day Type 4 
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y02 T_Depot Day Type 4 
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y03 T_Depot Day Type 4 
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y04 T_Depot Day Type 4 
+2025-06-25 16:01:58,919 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:01:58,924 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y01 T_Depot Day Type 4 
+2025-06-25 16:01:58,924 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:58,924 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y02 T_Depot Day Type 4 
+2025-06-25 16:01:58,924 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:58,924 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y03 T_Depot Day Type 4 
+2025-06-25 16:01:58,924 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:58,925 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y04 T_Depot Day Type 4 
+2025-06-25 16:01:58,925 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:01:58,935 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του55Y01 T_Depot Day Type 4 
+2025-06-25 16:01:58,935 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:58,935 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11024 του55Y02 T_Depot Day Type 4 
+2025-06-25 16:01:58,936 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του701 T_Depot Day Type 4 
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του702 T_Depot Day Type 4 
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του703 T_Depot Day Type 4 
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του704 T_Depot Day Type 4 
+2025-06-25 16:01:58,944 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του705 T_Depot Day Type 4 
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7101 T_Depot Day Type 4 
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7102 T_Depot Day Type 4 
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7103 T_Depot Day Type 4 
+2025-06-25 16:01:58,945 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,946 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7104 T_Depot Day Type 4 
+2025-06-25 16:01:58,946 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,946 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7105 T_Depot Day Type 4 
+2025-06-25 16:01:58,946 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:58,961 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26201 του8310 T_Depot Day Type 4 
+2025-06-25 16:01:58,962 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:01:58,962 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1134 του8311 T_Depot Day Type 4 
+2025-06-25 16:01:58,962 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1134
+2025-06-25 16:01:58,979 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26212 του9104 T_Depot Day Type 4 
+2025-06-25 16:01:58,979 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:01:59,086 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,090 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,181 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,186 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,190 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,195 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,200 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,204 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,209 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,215 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,220 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,224 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,229 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7106 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,234 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7107 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,317 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8307 στο short_T_Depot_Day_Type_5_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,408 - WARNING - ⚠️ Παράλειψη 9102 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,412 - WARNING - ⚠️ Παράλειψη 9103 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,416 - WARNING - ⚠️ Παράλειψη 9104 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,421 - WARNING - ⚠️ Παράλειψη 9105 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,425 - WARNING - ⚠️ Παράλειψη 9106 ή T_Depot ή Day Type 5 στο short_T_Depot_Day_Type_5_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,463 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του701 T_Depot Day Type 5 
+2025-06-25 16:01:59,463 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,463 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του702 T_Depot Day Type 5 
+2025-06-25 16:01:59,463 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,463 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του703 T_Depot Day Type 5 
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του704 T_Depot Day Type 5 
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του705 T_Depot Day Type 5 
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7101 T_Depot Day Type 5 
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7102 T_Depot Day Type 5 
+2025-06-25 16:01:59,464 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7103 T_Depot Day Type 5 
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7104 T_Depot Day Type 5 
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7105 T_Depot Day Type 5 
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7106 T_Depot Day Type 5 
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,465 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7107 T_Depot Day Type 5 
+2025-06-25 16:01:59,466 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,478 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1134 του8307 T_Depot Day Type 5 
+2025-06-25 16:01:59,478 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1134
+2025-06-25 16:01:59,583 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 6 στο short_T_Depot_Day_Type_6_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,587 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 6 στο short_T_Depot_Day_Type_6_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,663 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,667 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,672 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,677 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,681 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,685 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,689 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,694 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,699 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,704 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,710 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7106 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,715 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7107 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,806 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8307 στο short_T_Depot_Day_Type_6_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:01:59,904 - WARNING - ⚠️ Παράλειψη 9104 ή T_Depot ή Day Type 6 στο short_T_Depot_Day_Type_6_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,908 - WARNING - ⚠️ Παράλειψη 9105 ή T_Depot ή Day Type 6 στο short_T_Depot_Day_Type_6_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,912 - WARNING - ⚠️ Παράλειψη 9106 ή T_Depot ή Day Type 6 στο short_T_Depot_Day_Type_6_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:01:59,947 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του701 T_Depot Day Type 6 
+2025-06-25 16:01:59,947 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,947 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του702 T_Depot Day Type 6 
+2025-06-25 16:01:59,947 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,947 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του703 T_Depot Day Type 6 
+2025-06-25 16:01:59,947 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του704 T_Depot Day Type 6 
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του705 T_Depot Day Type 6 
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7101 T_Depot Day Type 6 
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7102 T_Depot Day Type 6 
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7103 T_Depot Day Type 6 
+2025-06-25 16:01:59,948 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7104 T_Depot Day Type 6 
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7105 T_Depot Day Type 6 
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7106 T_Depot Day Type 6 
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7107 T_Depot Day Type 6 
+2025-06-25 16:01:59,949 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:01:59,962 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1134 του8307 T_Depot Day Type 6 
+2025-06-25 16:01:59,963 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1134
+2025-06-25 16:02:00,016 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ01 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,023 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ02 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,030 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ03 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,038 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 36Χ04 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,073 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y01 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,078 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y02 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,083 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y03 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,087 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 43Y04 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,118 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y01 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,123 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y02 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,128 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y03 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,132 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 45Y04 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,161 - WARNING - ⚠️ Παράλειψη 5301 ή T_Depot ή Day Type 7 στο short_T_Depot_Day_Type_7_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:02:00,166 - WARNING - ⚠️ Παράλειψη 5302 ή T_Depot ή Day Type 7 στο short_T_Depot_Day_Type_7_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:02:00,212 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y01 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,217 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 55Y02 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,235 - WARNING - ⚠️ Παράλειψη 5604 ή T_Depot ή Day Type 7 στο short_T_Depot_Day_Type_7_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:02:00,239 - WARNING - ⚠️ Παράλειψη 5605 ή T_Depot ή Day Type 7 στο short_T_Depot_Day_Type_7_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:02:00,243 - WARNING - ⚠️ Παράλειψη 5606 ή T_Depot ή Day Type 7 στο short_T_Depot_Day_Type_7_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:02:00,247 - WARNING - ⚠️ Παράλειψη 5607 ή T_Depot ή Day Type 7 στο short_T_Depot_Day_Type_7_Duties_.csv (δεν βρέθηκε deadhead)
+2025-06-25 16:02:00,288 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 701 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,292 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 702 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,297 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 703 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,301 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 704 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,306 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 705 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,310 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7101 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,314 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7102 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,319 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7103 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,323 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7104 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,328 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 7105 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,429 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8310 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,433 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 8311 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,551 - WARNING - ✅ (δεν έχει 2 γραμμές) Μονή εγγραφή για 9104 στο short_T_Depot_Day_Type_7_Duties_.csv — δημιουργείται με βάση ό,τι υπάρχει
+2025-06-25 16:02:00,576 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N2001 του36Χ01 T_Depot Day Type 7 
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του36Χ02 T_Depot Day Type 7 
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N2001 του36Χ03 T_Depot Day Type 7 
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του36Χ04 T_Depot Day Type 7 
+2025-06-25 16:02:00,577 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N15077
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y01 T_Depot Day Type 7 
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y02 T_Depot Day Type 7 
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1407 του43Y03 T_Depot Day Type 7 
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:02:00,582 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N4018 του43Y04 T_Depot Day Type 7 
+2025-06-25 16:02:00,584 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N4018
+2025-06-25 16:02:00,587 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y01 T_Depot Day Type 7 
+2025-06-25 16:02:00,587 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:02:00,587 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y02 T_Depot Day Type 7 
+2025-06-25 16:02:00,587 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:02:00,587 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N15077 του45Y03 T_Depot Day Type 7 
+2025-06-25 16:02:00,589 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:02:00,589 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N13011 του45Y04 T_Depot Day Type 7 
+2025-06-25 16:02:00,589 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N13011
+2025-06-25 16:02:00,598 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του55Y01 T_Depot Day Type 7 
+2025-06-25 16:02:00,599 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:02:00,599 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N11024 του55Y02 T_Depot Day Type 7 
+2025-06-25 16:02:00,599 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N11024
+2025-06-25 16:02:00,607 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του701 T_Depot Day Type 7 
+2025-06-25 16:02:00,607 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,608 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του702 T_Depot Day Type 7 
+2025-06-25 16:02:00,608 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,608 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του703 T_Depot Day Type 7 
+2025-06-25 16:02:00,608 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,608 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του704 T_Depot Day Type 7 
+2025-06-25 16:02:00,608 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του705 T_Depot Day Type 7 
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7101 T_Depot Day Type 7 
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7102 T_Depot Day Type 7 
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7103 T_Depot Day Type 7 
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7104 T_Depot Day Type 7 
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1446 του7105 T_Depot Day Type 7 
+2025-06-25 16:02:00,609 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1446
+2025-06-25 16:02:00,625 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26201 του8310 T_Depot Day Type 7 
+2025-06-25 16:02:00,625 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212
+2025-06-25 16:02:00,625 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N1134 του8311 T_Depot Day Type 7 
+2025-06-25 16:02:00,625 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N1134
+2025-06-25 16:02:00,642 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για START: N26212 του9104 T_Depot Day Type 7 
+2025-06-25 16:02:00,642 - WARNING - 🔍 [1 row] Δεν βρέθηκε mapping για END: N26212

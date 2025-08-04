@@ -1,0 +1,615 @@
+VERSION;BASIN;COMPANY;LINE;DIRECTION;PATTERNCODE;BRANCH;CATEGORY;CONTRACT;CONVLENGTH;DESCRIPTION;ELETTRONICCODE;INTERNALNOTE;INVALIDATED;LIMITED;MAIN;PLATFORM;PUBLICBODY;SHORTNAME;TRIPSCLASS;TRIPHEADSIGN;Active_Pattern;Always_Active;Apofasi;Depot;Pattern_End_Date;Pattern_english;Pattern_Start_Date;Route_type
+2590;KTEL_T;Def;01;1;2498;;Revenue;;206840.515;Τ.Σ. ΕΥΚΑΡΠΙΑΣ - ΣΚΛΑΒΕΝΙΤΗΣ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - Κ.Τ.Ε.Λ.;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 23-01-23;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS - SKLAVENITIS - NOS. PAPAGEORGIOY - K.T.E.L.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01;1;2499;;Revenue;;194380.483;Τ.Σ. ΕΥΚΑΡΠΙΑΣ - ΣΚΛΑΒΕΝΙΤΗΣ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - Κ.Τ.Ε.Λ.- ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΚ ΕΚΤΡΟΠΗ 23-01-23;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS - SKLAVENITIS - NOS. PAPAGEORGIOY - K.T.E.L.- SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01;1;2500;;Revenue;;197773.946;Κ.Τ.Ε.Λ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - ΣΚΛΑΒΕΝΙΤΗΣ - Τ.Σ. ΕΥΚΑΡΠΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ 23-01-23;;;0;;;KTEL_Thessalonikis;;K.T.E.L - NOS. PAPAGEORGIOY - SKLAVENITIS - T.S. EYKARPIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;01;1;2680;;Revenue;;12713.96;Τ.Σ. ΕΥΚΑΡΠΙΑΣ - ΣΚΛΑΒΕΝΙΤΗΣ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - Κ.Τ.Ε.Λ.;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 16-09-24;;;1;;;KTEL_Thessalonikis;;T.S. EYKARPIAS - SKLAVENITIS - NOS. PAPAGEORGIOY - K.T.E.L.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01;1;2681;;Revenue;;12421.74;Τ.Σ. ΕΥΚΑΡΠΙΑΣ - ΣΚΛΑΒΕΝΙΤΗΣ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - Κ.Τ.Ε.Λ.- ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΚ ΕΚΤΡΟΠΗ 16-09-24;;;1;;;KTEL_Thessalonikis;;T.S. EYKARPIAS - SKLAVENITIS - NOS. PAPAGEORGIOY - K.T.E.L.- SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01;1;2682;;Revenue;;11753.85;Κ.Τ.Ε.Λ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - ΣΚΛΑΒΕΝΙΤΗΣ - Τ.Σ. ΕΥΚΑΡΠΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ 16-09-24;;;1;;;KTEL_Thessalonikis;;K.T.E.L - NOS. PAPAGEORGIOY - SKLAVENITIS - T.S. EYKARPIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;01;0;793;;Revenue;;197760.017;Τ.Σ. ΕΥΚΑΡΠΙΑΣ - ΣΚΛΑΒΕΝΙΤΗΣ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - Κ.Τ.Ε.Λ.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS - SKLAVENITIS - NOS. PAPAGEORGIOY - K.T.E.L.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01;1;794;;Revenue;;185116.257;Κ.Τ.Ε.Λ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - ΣΚΛΑΒΕΝΙΤΗΣ - Τ.Σ. ΕΥΚΑΡΠΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;KTEL_Thessalonikis;;K.T.E.L - NOS. PAPAGEORGIOY - SKLAVENITIS - T.S. EYKARPIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;01;1;973;;Revenue;;185299.985;Τ.Σ. ΕΥΚΑΡΠΙΑΣ - ΣΚΛΑΒΕΝΙΤΗΣ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - Κ.Τ.Ε.Λ.- ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΑΒ/ΚΟ;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS - SKLAVENITIS - NOS. PAPAGEORGIOY - K.T.E.L.- SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01A;1;2501;;Revenue;;16114.18;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-Κ.Τ.Ε.Λ. ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 23-01-23;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS-SKLAVENITIS-NOS. PAPAGEORGIOY-K.T.E.L. MESO AMPELOKIPON;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01A;1;2502;;Revenue;;15811.8;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-Κ.Τ.Ε.Λ. ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ- ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΚ ΕΚΤΡΟΠΗ 23-01-23;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS-SKLAVENITIS-NOS. PAPAGEORGIOY-K.T.E.L. MESO AMPELOKIPON- SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01A;1;2503;;Revenue;;15148.42;Κ.Τ.Ε.Λ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - ΣΚΛΑΒΕΝΙΤΗΣ - Τ.Σ. ΕΥΚΑΡΠΙΑΣ ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ 23-01-23;;;0;;;KTEL_Thessalonikis;;K.T.E.L - NOS. PAPAGEORGIOY - SKLAVENITIS - T.S. EYKARPIAS MESO AMPELOKIPON;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;01A;1;2683;;Revenue;;14598.82;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-Κ.Τ.Ε.Λ. ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 16-09-24;;;1;;;KTEL_Thessalonikis;;T.S. EYKARPIAS-SKLAVENITIS-NOS. PAPAGEORGIOY-K.T.E.L. MESO AMPELOKIPON;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01A;1;2684;;Revenue;;13760.75;Κ.Τ.Ε.Λ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - ΣΚΛΑΒΕΝΙΤΗΣ - Τ.Σ. ΕΥΚΑΡΠΙΑΣ ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ 16-09-24;;;1;;;KTEL_Thessalonikis;;K.T.E.L - NOS. PAPAGEORGIOY - SKLAVENITIS - T.S. EYKARPIAS MESO AMPELOKIPON;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;01A;1;2685;;Revenue;;14397.38;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-Κ.Τ.Ε.Λ. ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ- ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΚ ΕΚΤΡΟΠΗ 16-09-24;;;1;;;KTEL_Thessalonikis;;T.S. EYKARPIAS-SKLAVENITIS-NOS. PAPAGEORGIOY-K.T.E.L. MESO AMPELOKIPON- SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01A;1;960;;Revenue;;14472.38;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-Κ.Τ.Ε.Λ. ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ- ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΑΒ/ΚΟ;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS-SKLAVENITIS-NOS. PAPAGEORGIOY-K.T.E.L. MESO AMPELOKIPON- SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;01A;1;961;;Revenue;;13928.15;Κ.Τ.Ε.Λ - ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ - ΣΚΛΑΒΕΝΙΤΗΣ - Τ.Σ. ΕΥΚΑΡΠΙΑΣ ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;KTEL_Thessalonikis;;K.T.E.L - NOS. PAPAGEORGIOY - SKLAVENITIS - T.S. EYKARPIAS MESO AMPELOKIPON;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;01A;0;974;;Revenue;;14781.83;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-Κ.Τ.Ε.Λ. ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;T.S. EYKARPIAS-SKLAVENITIS-NOS. PAPAGEORGIOY-K.T.E.L. MESO AMPELOKIPON;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;01N;1;2279;;Revenue;;21014.58;Κ.Τ.Ε.Λ. - ΑΕΡΟΔΡΟΜΙΟ ΝΥΧΤΕΡΙΝΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;K.T.E.L. - AERODROMIO NYCHTERINO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;01N;1;2280;;Revenue;;20499.88;ΑΕΡΟΔΡΟΜΙΟ - Κ.Τ.Ε.Λ. ΝΥΧΤΕΡΙΝΟ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;AERODROMIO - K.T.E.L. NYCHTERINO;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;01X;1;2328;;Revenue;;20927.31;Κ.Τ.Ε.Λ. - ΑΕΡΟΔΡΟΜΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΦΕΒΡΟΥΑΡΙΟΣ;;;1;;;Stavroupoli;;K.T.E.L. - AERODROMIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;01X;1;2519;;Revenue;;19827.58;ΑΕΡΟΔΡΟΜΙΟ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗ 01/03/23;;;1;;;Stavroupoli;;AERODROMIO - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;02K;0;2521;;Revenue;;16299.38;Α.Σ.ΙΚΕΑ-Κ.Τ.Ε.Λ ΜΑΚΕΔΟΝΙΑ;;;0;0;1;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗ 01/03/23;;;1;;;Finikas;;A.S.IKEA-K.T.E.L MAKEDONIA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;02K;1;2577;;Revenue;;16481.33;Κ.Τ.Ε.Λ ΜΑΚΕΔΟΝΙΑ - Α.Σ.ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 01/09/23;;;1;;;Finikas;;K.T.E.L MAKEDONIA - A.S.IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;02X;0;2702;;Revenue;;13536.51;ΝΕΑ ΕΛΒΕΤΙΑ - ΑΕΡΟΔΡΟΜΙΟ ΜΑΚΕΔΟΝΙΑ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;0;;Apofasi 5/23-01-2025;Finikas;2025-07-01;NEA ELVETIA - AERODROMIO MAKEDONIA;2025-02-01;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;02X;0;2702_1;;Revenue;;;ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ - ΑΕΡΟΔΡΟΜΙΟ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;52-27/06/2025;FOINIKAS;;METRO STATION N. ELVETIA - AIRPORT;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;02X;1;2703;;Revenue;;12925.03;ΑΕΡΟΔΡΟΜΙΟ ΜΑΚΕΔΟΝΙΑ - ΝΕΑ ΕΛΒΕΤΙΑ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;0;;Apofasi 5/23-01-2025;Finikas;2025-07-01;AERODROMIO MAKEDONIA - NEA ELVETIA;2025-02-01;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;02X;1;2703_1;;Revenue;;;ΑΕΡΟΔΡΟΜΙΟ - ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;1;53-27/06/2025;FOINIKAS;;AIRPORT - METRO STATION N. ELVETIA;2025-07-02;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;03K;0;2304;;Revenue;;13084.26;Α.Σ.ΙΚΕΑ-Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;A.S.IKEA-N.S.STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;03K;1;2305;;Revenue;;13365.67;Ν.Σ.ΣΤΑΘΜΟΣ - Α.Σ.ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;N.S.STATHMOS - A.S.IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;04A;0;2373;;Revenue;;17247.69;ΧΑΡΙΛΑΟΥ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΑΛΑΜΑΡΙΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ ΕΩΣ 01/09/23;;;0;;;Finikas;;CHARILAOY - K.T.E.L. CHALKIDIKIS - KALAMARIA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;04A;0;2373_1;;Revenue;;;ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ - ΚΑΛΑΜΑΡΙΑ;;;0;0;0;;;ΚΥΚΛΙΚΗ;;;1;1;53-27/06/2025;Finikas;;METRO STATION N. ELVETIA - KALAMARIA;2025-07-01;ΚΥΚΛΙΚΗ
+2590;OASTH;Def;04B;0;1154;;Revenue;;14754.23;Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΧΑΡΙΛΑΟΥ - ΚΑΛΑΜΑΡΙΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;;Finikas;;K.T.E.L. CHALKIDIKIS - CHARILAOY - KALAMARIA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;04B;1;1154_1;;Revenue;;;ΚΤΕΛ ΧΑΛΚΙΔΙΚΗΣ - ΚΑΛΑΜΑΡΙΑ;;;0;0;0;;;ΚΥΚΛΙΚΗ;;;1;1;52-27/06/2025;Finikas;;KTEL CHALKIDIKIS - KALAMARIA;2025-07-02;ΚΥΚΛΙΚΗ
+2590;OASTH;Def;04E;1;1611;;Revenue;;17417.69;ΚΑΛΑΜΑΡΙΑ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΓΕΡΜΑΝΙΚΗ ΣΧΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ 07:05;;;1;;;Finikas;;KALAMARIA - K.T.E.L. CHALKIDIKIS - GERMANIKI SCHOLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;04M;1;2397;;Revenue;;3858.12;Ν.ΚΡΗΝΗ - ΦΟΙΝΙΚΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ 2;;;1;;;Finikas;;N.KRINI - FOINIKAS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;05;0;150;;Revenue;;165427.191;Ν.ΚΡΗΝΗ - ΒΕΝΙΖΕΛΟΥ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;N.KRINI - VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;05;1;151;;Revenue;;211794.273;ΒΕΝΙΖΕΛΟΥ - Ν.ΚΡΗΝΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;VENIZELOY - N.KRINI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;05A;0;601;;Revenue;;13377.95;ΝΕΑ ΚΡΗΝΗ - ΒΕΝΙΖΕΛΟΥ - ΣΧΟΛΗ ΔΙΚΑΣΤΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;NEA KRINI - VENIZELOY - SCHOLI DIKASTON;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;05A;1;602;;Revenue;;13183.22;ΒΕΝΙΖΕΛΟΥ - Ν.ΚΡΗΝΗ - ΣΧΟΛΗ ΔΙΚΑΣΤΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;VENIZELOY - N.KRINI - SCHOLI DIKASTON;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;05B;0;1094;;Revenue;;11474.54;ΚΑΛΑΜΑΡΙΑ - ΒΕΝΙΖΕΛΟΥ 1ο ΔΡΟΜΟΛΟΓΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 1ου ΔΡΟΜ.;;;1;;;Finikas;;KALAMARIA - VENIZELOY 1o DROMOLOGIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;06;0;2237;;Revenue;;160257.205;ΚΑΛΑΜΑΡΙΑ-ΒΕΝΙΖΕΛΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;KALAMARIA-VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;06;1;2405;;Revenue;;7970287.143;ΒΕΝΙΖΕΛΟΥ - ΚΑΛΑΜΑΡΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;VENIZELOY - KALAMARIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;07;0;1391;;Revenue;;147930.925;ΑΓ. ΙΩΑΝΝΗΣ - ΠΑΝΕΠΙΣΤΗΜΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;AG. IOANNIS-PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;07;1;1745;;Revenue;;9349.52;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΑΓ. ΙΩΑΝΝΗΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;PANEPISTIMIO - AG. IOANNIS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;07;0;916;;Revenue;;8577394.535;ΑΓ. ΙΩΑΝΝΗΣ-ΠΑΝΕΠΙΣΤΗΜΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;2/2025;Finikas;;AG. IOANNIS-PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ ΠΡΟΣΩΡΙΝΗ ΛΟΓΩ ΕΡΓΑΣΙΩΝ
+2590;KTEL_T;Def;09;1;1632;;Revenue;;347034.583;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;METΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;1634;;Revenue;;322476.863;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;2483;;Revenue;;24747.39;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 05/05/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;2489;;Revenue;;23976;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 24/06/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;2590;;Revenue;;27707.13;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 29/09/23;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;2593;;Revenue;;22907.55;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 02;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;2633;;Revenue;;20992.16;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΕΚΤΡΟΠΗ 27/11/23;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09;1;2654;;Revenue;;20992.16;Ν.Σ. ΣΤΑΘΜΟΣ-ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΕΚΤΡΟΠΗ ΦΕΒΡΟΥΑΡΙΟΣ 2024;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS-KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;1;1319;;Revenue;;20443.76;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;0;1639;;Revenue;;21488.1;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;1;2484;;Revenue;;24757.6;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 05/05/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;1;2490;;Revenue;;23970.39;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 24/06/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;1;2594;;Revenue;;23256.56;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 2;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;1;2634;;Revenue;;21340.77;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΕΚΤΡΟΠΗ 27/11/23;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09A;1;2655;;Revenue;;20325.88;Ν.Σ. ΣΤΑΘΜΟΣ - ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΕΚΤΡΟΠΗ ΦΕΒΡΟΥΑΡΙΟΣ 2024;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;0;1641;;Revenue;;15436.05;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;1;1642;;Revenue;;14373.2;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;1;2485;;Revenue;;15496.35;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΜΕΤΑΒΑΣΗ 05/05/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;1;2491;;Revenue;;14709.1;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΜΕΤΑΒΑΣΗ 24/06/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;1;2595;;Revenue;;17357.52;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΜΕΤΑΒΑΣΗ 2;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;1;2635;;Revenue;;15441.67;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΕΚΤΡΟΠΗ 27/11/23;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09B;1;2656;;Revenue;;15002.08;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ Κ.Τ.Ε.Ο.;;;;;;;;ΕΚΤΡΟΠΗ ΦΕΒΡΟΥΑΡΙΟΣ 2024;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - KENTRIKI AGORA K.T.E.O.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;0;1643;;Revenue;;15921.47;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;1;1645;;Revenue;;14911.69;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;1;2486;;Revenue;;15497.87;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 05/05/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;1;2492;;Revenue;;14704.44;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 24/06/22;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;1;2596;;Revenue;;17704.38;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 2;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;1;2636;;Revenue;;15787.99;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΕΚΤΡΟΠΗ 27/11/23;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;09E;1;2657;;Revenue;;14772.21;Ν.Σ. ΣΤΑΘΜΟΣ - Κ.Τ.Ε.Ο. ΜΕΣΑ ΑΠΟ ΤΗΝ ΚΕΝΤΡΙΚΗ ΑΓΟΡΑ;;;;;;;;ΕΚΤΡΟΠΗ ΦΕΒΡΟΥΑΡΙΟΣ 2024;;;0;;;KTEL_Thessalonikis;;N.S. STATHMOS - K.T.E.O. MESA APO TIN KENTRIKI AGORA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;10;0;137;;Revenue;;7498.15;ΧΑΡΙΛΑΟΥ - Ν.Σ. ΣΤΑΘΜΟΣ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;;Finikas;;CHARILAOY - N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;10;1;138;;Revenue;;7643.21;Ν.Σ. ΣΤΑΘΜΟΣ - ΧΑΡΙΛΑΟΥ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Finikas;;N.S. STATHMOS - CHARILAOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;10;1;138_1;;Revenue;;;Ν.Σ. ΣΤΑΘΜΟΣ - ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;1;53-27/06/2025;Finikas;;N.S. STATHMOS - METRO STATION N. ELVETIAS;2025-07-01;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;10;0;2688;;Revenue;;7400.01;ΧΑΡΙΛΑΟΥ - Ν.Σ. ΣΤΑΘΜΟΣ;;;0;0;1;;;ΝΕA ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;0;;;Finikas;;CHARILAOY - N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;10;0;2688_1;;Revenue;;;ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑΣ - Ν.Σ. ΣΤΑΘΜΟΣ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;1;53-27/06/2025;Finikas;;METRO STATION N. ELVETIA - N.S. STHATMOS;2025-07-02;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;10;1;899;;Revenue;;8689.51;Ν.Σ. ΣΤΑΘΜΟΣ - ΧΑΡΙΛΑΟΥ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ ΑΓΩΝΑ;;;0;;;Finikas;;N.S. STATHMOS - CHARILAOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11;0;105;;Revenue;;10852.31;ΠΥΛΑΙΑ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;Finikas;;PYLAIA - N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11;1;106;;Revenue;;10420.18;Ν.Σ. ΣΤΑΘΜΟΣ - ΠΥΛΑΙΑ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Finikas;;N.S. STATHMOS - PYLAIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11;1;107;;Revenue;;9985.51;ΠΥΛΑΙΑ - Ν.Σ. ΣΤΑΘΜΟΣ-ΔΕΥΤΕΡΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΔΕΥΤΕΡΑΣ;;;0;;;Finikas;;PYLAIA - N.S. STATHMOS-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11;1;117;;Revenue;;9582.96;Ν.Σ. ΣΤΑΘΜΟΣ - ΠΥΛΑΙΑ-ΔΕΥΤΕΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΔΕΥΤΕΡΑΣ;;;0;;;Finikas;;N.S. STATHMOS - PYLAIA-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11;1;1282;;Revenue;;9929.69;ΠΥΛΑΙΑ - Ν.Σ. ΣΤΑΘΜΟΣ-ΠΕΜΠΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;0;;;Finikas;;PYLAIA - N.S. STATHMOS-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11;0;2708;;Revenue;;7735.88;ΠΥΛΑΙΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PYLAIA - PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11;1;2709;;Revenue;;6858.65;ΠΥΛΑΙΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ-ΔΕΥΤΕΡΑ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PYLAIA - PANEPISTIMIO-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11;1;2710;;Revenue;;6813.58;ΠΥΛΑΙΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ-ΠΕΜΠΤΗ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PYLAIA - PANEPISTIMIO-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11;1;2728;;Revenue;;7722.16;ΠΑΝΕΠΣΤΗΜΙΟ - ΠΥΛΑΙΑ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ ΜΕΤΡΟ;;;1;;;Finikas;;PANEPSTIMIO - PYLAIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11;1;2729;;Revenue;;6839.58;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΠΥΛΑΙΑ-ΔΕΥΤΕΡΑ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PANEPISTIMIO - PYLAIA-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11;1;2730;;Revenue;;7708.24;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΠΥΛΑΙΑ-ΠΕΜΠΤΗ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PANEPISTIMIO - PYLAIA-PEMPTI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11B;0;1623;;Revenue;;12328.47;ΠΥΛΑΙΑ - Ν.Σ. ΣΤΑΘΜΟΣ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;Finikas;;PYLAIA - N.S. STATHMOS KSENONAS THEAGENEIOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11B;1;1624;;Revenue;;11860.57;Ν.Σ. ΣΤΑΘΜΟΣ - ΠΥΛΑΙΑ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Finikas;;N.S. STATHMOS - PYLAIA KSENONAS THEAGENEIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11B;1;1625;;Revenue;;11469.56;ΠΥΛΑΙΑ - Ν.Σ. ΣΤΑΘΜΟΣ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΔΕΥΤΕΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΔΕΥΤΕΡΑΣ;;;0;;;Finikas;;PYLAIA - N.S. STATHMOS KSENONAS THEAGENEIOY-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11B;1;1627;;Revenue;;11380.47;ΠΥΛΑΙΑ - Ν.Σ. ΣΤΑΘΜΟΣ ΞΕΝΩΝΑΣΘΑΕΓΕΝΑΙΟΥ-ΠΕΜΠΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;0;;;Finikas;;PYLAIA - N.S. STATHMOS KSENONASTHAEGENAIOY-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11B;1;1629;;Revenue;;10996.48;Ν.Σ. ΣΤΑΘΜΟΣ - ΠΥΛΑΙΑ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΔΕΥΤΕΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΔΕΥΤΕΡΑΣ;;;0;;;Finikas;;N.S. STATHMOS - PYLAIA KSENONAS THEAGENEIOY-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11B;0;2711;;Revenue;;9244.34;ΠΥΛΑΙΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PYLAIA - PANEPISTIMIO KSENONAS THEAGENEIOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11B;1;2725;;Revenue;;8329.5;ΠΥΛΑΙΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΕΜΠΤΗ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PYLAIA - PANEPISTIMIO KSENONAS THEAGENEIOY-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11B;1;2726;;Revenue;;8361.65;ΠΥΛΑΙΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΔΕΥΤΕΡΑ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PYLAIA - PANEPISTIMIO KSENONAS THEAGENEIOY-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11B;1;2731;;Revenue;;9177.97;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΠΥΛΑΙΑ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PANEPISTIMIO - PYLAIA KSENONAS THEAGENEIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11B;1;2732;;Revenue;;8290.22;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΠΥΛΑΙΑ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΔΕΥΤΕΡΑ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PANEPISTIMIO - PYLAIA KSENONAS THEAGENEIOY-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11B;1;2737;;Revenue;;9172.57;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΠΥΛΑΙΑ ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΕΜΠΤΗ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PANEPISTIMIO - PYLAIA KSENONAS THEAGENEIOY-PEMPTI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11E;1;2719;;Revenue;;6841.98;ΠΥΛΑΙΑ-ΠΑΝΕΠΙΣΤΗΜΙΟ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΔΕΥΤΕΡΑ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PYLAIA-PANEPISTIMIO-KSENONAS THEAGENEIOY-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11E;1;2721;;Revenue;;6829.29;ΠΥΛΑΙΑ-ΠΑΝΕΠΙΣΤΗΜΙΟ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΕΜΠΤΗ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PYLAIA-PANEPISTIMIO-KSENONAS THEAGENEIOY-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11E;1;2735;;Revenue;;9135.79;ΠΑΝΕΠΙΣΤΗΜΙΟ-ΠΥΛΑΙΑ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PANEPISTIMIO-PYLAIA-KSENONAS THEAGENEIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11E;1;2736;;Revenue;;8290.22;ΠΑΝΕΠΙΣΤΗΜΙΟ-ΠΥΛΑΙΑ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΔΕΥΤΕΡΑ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PANEPISTIMIO-PYLAIA-KSENONAS THEAGENEIOY-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11E;1;2738;;Revenue;;9172.57;ΠΑΝΕΠΙΣΤΗΜΙΟ-ΠΥΛΑΙΑ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΕΜΠΤΗ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PANEPISTIMIO-PYLAIA-KSENONAS THEAGENEIOY-PEMPTI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11E;1;2739;;Revenue;;7735.88;ΠΥΛΑΙΑ-ΠΑΝΕΠΙΣΤΗΜΙΟ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PYLAIA-PANEPISTIMIO-KSENONAS THEAGENEIOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11M;1;2714;;Revenue;;9220;ΠΥΛΑΙΑ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΑΝΕΠΙΣΤΗΜΙΟ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PYLAIA-KSENONAS THEAGENEIOY-PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11M;1;2715;;Revenue;;8356.24;ΠΥΛΑΙΑ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΑΝΕΠΙΣΤΗΜΙΟ-ΔΕΥΤΕΡΑ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PYLAIA-KSENONAS THEAGENEIOY-PANEPISTIMIO-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11M;1;2718;;Revenue;;8303.13;ΠΥΛΑΙΑ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΑΝΕΠΙΣΤΗΜΙΟ-ΠΕΜΠΤΗ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PYLAIA-KSENONAS THEAGENEIOY-PANEPISTIMIO-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11M;1;2740;;Revenue;;7722.16;ΠΑΝΕΠΙΣΤΗΜΙΟ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΥΛΑΙΑ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Finikas;;PANEPISTIMIO-KSENONAS THEAGENEIOY-PYLAIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11M;1;2741;;Revenue;;6839.58;ΠΥΛΑΙΑ - ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ - ΠΑΝΕΠΙΣΤΗΜΙΟ-ΔΕΥΤΕΡΑ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΔΕΥΤΕΡΑΣ;;;1;;;Finikas;;PYLAIA - KSENONAS THEAGENEIOY - PANEPISTIMIO-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11M;1;2742;;Revenue;;7708.24;ΠΑΝΕΠΙΣΤΗΜΙΟ-ΞΕΝΩΝΑΣ ΘΕΑΓΕΝΕΙΟΥ-ΠΥΛΑΙΑ-ΠΕΜΠΤΗ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ ΠΕΜΠΤΗΣ;;;1;;;Finikas;;PANEPISTIMIO-KSENONAS THEAGENEIOY-PYLAIA-PEMPTI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11T;0;2415;;Revenue;;4404.71;ΠΥΛΑΙΑ-ΧΑΡΙΛΑΟΥ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;;Finikas;;PYLAIA-CHARILAOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11T;0;2415_1;;Revenue;;;ΠΥΛΑΙΑ - ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;1;53-27/06/2025;Finikas;;PYLAIA - METRO STATION N. ELVETIA;2025-07-02;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;11T;1;2418;;Revenue;;3243.7;ΧΑΡΙΛΑΟΥ - ΠΥΛΑΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;CHARILAOY - PYLAIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;11T;1;2418_1;;Revenue;;;ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ - ΠΥΛΑΙΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;1;53-27/06/2025;Finikas;;METRO STATION N. ELVETIA - PYLAIA;2025-07-02;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;12;1;1355;;Revenue;;10082.11;ΚΑΤΩ ΤΟΥΜΠΑ - ΚΤΕΛ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;KATO TOYMPA - KTEL;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;12;1;1356;;Revenue;;10273.77;ΚΑΤΩ ΤΟΥΜΠΑ - ΚΤΕΛ-ΔΕΥΤΕΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΔΕΥΤΕΡΑΣ;;;1;;;Stavroupoli;;KATO TOYMPA - KTEL-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;12;0;164;;Revenue;;10847.68;ΚΤΕΛ-ΚΑΤΩ ΤΟΥΜΠΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;KTEL-KATO TOYMPA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;14;1;1726;;Revenue;;7509.74;Ν.Σ.ΣΤΑΘΜΟΣ - ΑΝΩ ΤΟΥΜΠΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;N.S.STATHMOS - ANO TOYMPA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;14;0;178;;Revenue;;7566.39;ΑΝΩ ΤΟΥΜΠΑ-Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;ANO TOYMPA-N.S.STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;14;1;2647;;Revenue;;8543.57;ΑΝΩ ΤΟΥΜΠΑ-Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 04/01/24;;;0;;;Finikas;;ANO TOYMPA-N.S.STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;14A;1;1727;;Revenue;;9130.72;Ν.Σ.ΣΤΑΘΜΟΣ - ΑΝΩ ΤΟΥΜΠΑ ΜΕΣΩ ΓΕΝΕΣΙΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;N.S.STATHMOS - ANO TOYMPA MESO GENESIS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;15;1;2439;;Revenue;;9752.38;ΣΑΡΑΝΤΑ ΕΚΚΛΗΣΙΕΣ - ΙΣΤΟΡΙΚΟ ΚΕΝΤΡΟ;;;;;;;;ΜΕΤΑΒΑΣΗ 01-06-21;;;1;;;Stavroupoli;;SARANTA EKKLISIES - ISTORIKO KENTRO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;15A;1;632;;Revenue;;3888.68;ΣΑΡΑΝΤΑ ΕΚΚΛΗΣΙΕΣ - ΓΥΜΝΑΣΙΟ;;;;;;;;ΓΥΜΝΑΣΙΟ;;;1;;;Stavroupoli;;SARANTA EKKLISIES - GYMNASIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;16;0;232;;Revenue;;10235.17;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΙΣΤΟΡΙΚΟ ΚΕΝΤΡΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;EYAGGELISTRIA - ISTORIKO KENTRO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;17;0;180;;Revenue;;6371.84;ΤΡΙΑΝΔΡΙΑ-Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;Stavroupoli;;TRIANDRIA-N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;17;1;181;;Revenue;;5675.61;Ν.Σ. ΣΤΑΘΜΟΣ - ΤΡΙΑΝΔΡΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Stavroupoli;;N.S. STATHMOS - TRIANDRIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;17;1;2692;;Revenue;;4009.98;ΤΡΙΑΝΔΡΙΑ - ΑΓΙΑΣ ΣΟΦΙΑΣ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;2025-05-31;TRIANDRIA - AGIAS SOFIAS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;17;0;2692_1;;Revenue;;;ΤΡΙΑΝΔΡΙΑ - ΒΕΝΙΖΕΛΟΥ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;18/13-05-2025;Stavroupoli;;TRIANDRIA - VENIZELOU;2025-06-01;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;17;1;2727;;Revenue;;3822.29;ΑΓΙΑΣ ΣΟΦΙΑΣ - ΤΡΙΑΝΔΡΙΑ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;2025-05-31;AGIAS SOFIAS - TRIANDRIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;17;1;2727_1;;Revenue;;;ΒΕΝΙΖΕΛΟΥ - ΤΡΙΑΝΔΡΙΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;;28/13-05-2025;Stavroupoli;;VENIZELOU - TRIANDRIA;2025-06-01;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;18;1;143;;Revenue;;14501.56;ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΚΟΡΔΕΛΙΟ-ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΣΑΒ/ΚΟ;;;1;;;Stavroupoli;;AG. ANARGYROI - KORDELIO-SAVVATO-KYRIAKI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;18;0;509;;Revenue;;13677.01;ΚΟΡΔΕΛΙΟ-ΑΓ. ΑΝΑΡΓΥΡΟΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;KORDELIO-AG. ANARGYROI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;18;1;510;;Revenue;;14797.66;ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΚΟΡΔΕΛΙΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;AG. ANARGYROI - KORDELIO;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;18A;0;2646;;Revenue;;3646.15;Τ.Σ ΜΕΝΕΜΕΝΗΣ-ΚΟΡΔΕΛΙΟΥ-Τ.Σ Κ.ΗΛΙΟΥΠΟΛΗΣ-ΕΥΟΣΜΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;T.S MENEMENIS-KORDELIOY-T.S K.ILIOYPOLIS-EYOSMOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;19;1;1177;;Revenue;;6490.84;Ν.Σ. ΣΤΑΘΜΟΣ - ΕΛΕΥΘΕΡΙΟ ΚΟΡΔΕΛΙΟ-ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΑΒ/ΚΟ;;;1;;;Stavroupoli;;N.S. STATHMOS - ELEYTHERIO KORDELIO-SAVVATO-KYRIAKI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;19;0;77;;Revenue;;6803.94;Ν.Σ. ΣΤΑΘΜΟΣ - ΕΛΕΥΘΕΡΙΟ ΚΟΡΔΕΛΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;N.S. STATHMOS - ELEYTHERIO KORDELIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;19;1;78;;Revenue;;3965.8;ΕΛΕΥΘΕΡΙΟ ΚΟΡΔΕΛΙΟ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;ELEYTHERIO KORDELIO - N.S. STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;19A;0;1747;;Revenue;;6807.54;Ν.Σ. ΣΤΑΘΜΟΣ - ΕΛΕΥΘΕΡΙΟ ΚΟΡΔΕΛΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;N.S. STATHMOS - ELEYTHERIO KORDELIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;1N;0;2282;;Revenue;;21508.14;Κ.Τ.Ε.Λ. - ΑΕΡΟΔΡΟΜΙΟ ΜΕΣΩ Α.Σ. Ι.Κ.Ε.Α.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;K.T.E.L. - AERODROMIO MESO A.S. I.K.E.A.;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;1N;1;2283;;Revenue;;20954.1;ΑΕΡΟΔΡΟΜΙΟ - Κ.Τ.Ε.Λ.  ΜΕΣΩ Α.Σ. Ι.Κ.Ε.Α.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;AERODROMIO - K.T.E.L.  MESO A.S. I.K.E.A.;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;20;0;204;;Revenue;;5271.94;ΜΕΝΕΜΕΝΗ - ΕΡΜΟΥ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;MENEMENI - ERMOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;20;1;2272;;Revenue;;5455.61;ΜΕΝΕΜΕΝΗ - ΑΡΙΣΤΟΤΕΛΟΥΣ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΝΕΑ 15-04-18;;;0;;;Stavroupoli;2024-11-30;MENEMENI - ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;20;1;2273;;Revenue;;5862.85;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΜΕΝΕΜΕΝΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ ΝΕΑ 15-04-18;;;0;;81/28-11-2024;Stavroupoli;2024-11-30;ARISTOTELOYS - MENEMENI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;20;1;2273_1;;Revenue;;;ΕΡΜΟΥ - ΜΕΝΕΜΕΝΗ;;;0;0;0;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;81/28-11-2024;Stavroupoli;;MENEMENI ERMOU;2024-12-01;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;21;0;182;;Revenue;;7936.61;ΕΥΟΣΜΟΣ - ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;Stavroupoli;;EYOSMOS - ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;21;1;183;;Revenue;;8611.73;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΕΥΟΣΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Stavroupoli;;ARISTOTELOYS - EYOSMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;21;0;2696;;Revenue;;7732.95;ΕΥΟΣΜΟΣ - ΕΡΜΟΥ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;EYOSMOS - ERMOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;21;1;2697;;Revenue;;8505.53;ΕΡΜΟΥ -ΕΥΟΣΜΟΣ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;ERMOY -EYOSMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;21A;1;2699;;Revenue;;12592.64;ΕΡΜΟΥ - ΕΥΟΣΜΟΣ ΜΕΣΩ ΚΟΙΜΗΤΗΡΙΩΝ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;ERMOY - EYOSMOS MESO KOIMITIRION;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;21A;1;646;;Revenue;;12707.13;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΕΥΟΣΜΟΣ ΜΕΣΩ ΚΟΙΜΗΤΗΡΙΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Stavroupoli;;ARISTOTELOYS - EYOSMOS MESO KOIMITIRION;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;22;1;1339;;Revenue;;6792.22;ΑΝΩ ΠΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 06-07-20;;;0;;;Stavroupoli;;ANO POLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;22;1;2276;;Revenue;;7960.53;ΑΝΩ ΠΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ 10-12-19;;;0;;;Stavroupoli;;ANO POLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;22;1;2387;;Revenue;;6511.36;ΑΝΩ ΠΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 15-07-20;;;0;;;Stavroupoli;;ANO POLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;22;1;2448;;Revenue;;7681.35;ΑΝΩ ΠΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ 29-04-24;;;1;;;Stavroupoli;;ANO POLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;22;1;2494;;Revenue;;9491.6;ΑΝΩ ΠΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ 28/11/22;;;0;;;Stavroupoli;;ANO POLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;22;1;2504;;Revenue;;8793.49;ΑΝΩ ΠΟΛΗ;;;;;;;;ΜΕΤΑΒΑΣΗ 15/02/23;;;0;;;Stavroupoli;;ANO POLI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;23;0;1205;;Revenue;;14416.46;Ν.Σ.ΣΤΑΘΜΟΣ - ΣΥΚΙΕΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;N.S.STATHMOS - SYKIES;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;23;1;2659;;Revenue;;16555.39;Ν.Σ.ΣΤΑΘΜΟΣ - ΣΥΚΙΕΣ;;;;;;;;MΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 02/04/24;;;0;;;Stavroupoli;;N.S.STATHMOS - SYKIES;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;24;0;198;;Revenue;;5591.87;ΠΛ. ΕΛΕΥΘΕΡΙΑΣ - ΧΙΛΙΑ ΔΕΝΔΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;PL. ELEYTHERIAS - CHILIA DENDRA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;24;1;199;;Revenue;;4549.4;ΧΙΛΙΑ ΔΕΝΔΡΑ - ΠΛ. ΕΛΕΥΘΕΡΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Stavroupoli;;CHILIA DENDRA - PL. ELEYTHERIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;24;1;2324;;Revenue;;6666.61;ΧΙΛΙΑ ΔΕΝΔΡΑ - ΠΛ. ΕΛΕΥΘΕΡΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ;;;1;;;Stavroupoli;;CHILIA DENDRA - PL. ELEYTHERIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;25;0;184;;Revenue;;5564.3;ΝΕΑΠΟΛΗ - ΒΕΝΙΖΕΛΟΥ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;NEAPOLI - VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;25;1;185;;Revenue;;5349.99;ΒΕΝΙΖΕΛΟΥ - ΝΕΑΠΟΛΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;VENIZELOY - NEAPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;26;1;1439;;Revenue;;4383.2;ΠΛ. ΕΛΕΥΘΕΡΙΑΣ - ΚΑΛΛΙΘΕΑ-ΤΕΤΑΡΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΤΕΤΑΡΤΗΣ;;;1;;;Stavroupoli;;PL. ELEYTHERIAS - KALLITHEA-TETARTI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;26;1;200;;Revenue;;5467.43;ΠΛ. ΕΛΕΥΘΕΡΙΑΣ - ΚΑΛΛΙΘΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;PL. ELEYTHERIAS - KALLITHEA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;26;0;201;;Revenue;;5301.66;ΚΑΛΛΙΘΕΑ-ΠΛ. ΕΛΕΥΘΕΡΙΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;KALLITHEA-PL. ELEYTHERIAS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;26;1;2581;;Revenue;;5137.44;ΚΑΛΛΙΘΕΑ-ΠΛ. ΕΛΕΥΘΕΡΙΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ ΠΕΤΑΛΟ;;;0;;;Stavroupoli;;KALLITHEA-PL. ELEYTHERIAS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;26;1;2582;;Revenue;;5386.26;ΠΛ. ΕΛΕΥΘΕΡΙΑΣ - ΚΑΛΛΙΘΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ ΠΕΤΑΛΟ;;;0;;;Stavroupoli;;PL. ELEYTHERIAS - KALLITHEA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;27;1;166;;Revenue;;8741.9;ΣΤΑΥΡΟΥΠΟΛΗ-ΠΑΝΕΠΙΣΤΗΜΙΟ;;;;;;;;METABΑΣΗ;;;1;;;Stavroupoli;;STAYROYPOLI-PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;27;1;534;;Revenue;;10374.53;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΣΤΑΥΡΟΥΠΟΛΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;PANEPISTIMIO - STAYROYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;28;0;877;;Revenue;;12132.19;Τ.Σ. ΕΥΚΑΡΠΙΑΣ-ΣΚΛΑΒΕΝΙΤΗΣ-ΝΟΣ.ΠΑΠΑΓΕΩΡΓΙΟΥ-424 Γ.Σ.Ν.Ε-ΠΑΝΕΠΙΣΤΗΜΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;T.S. EYKARPIAS-SKLAVENITIS-NOS.PAPAGEORGIOY-424 G.S.N.E-PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;28;1;878;;Revenue;;12344.28;ΠΑΝΕΠΙΣΤΗΜΙΟ-424 Γ.Σ.Ε-ΝΟΣ. ΠΑΠΑΓΕΩΡΓΙΟΥ-ΣΚΛΑΒΕΝΙΤΗΣ-Τ.Σ. ΕΥΚΑΡΠΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;PANEPISTIMIO-424 G.S.E-NOS. PAPAGEORGIOY-SKLAVENITIS-T.S. EYKARPIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;29;0;190;;Revenue;;5999.62;ΠΟΛΙΧΝΗ - ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;POLICHNI - ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;29;1;647;;Revenue;;8624.49;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΠΟΛΙΧΝΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;ARISTOTELOYS - POLICHNI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;29A;0;626;;Revenue;;8409.25;ΠΟΛΙΧΝΗ - ΑΡΙΣΤΟΤΕΛΟΥΣ ΜΕΣΩ ΕΡΓΑΤΙΚΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;POLICHNI - ARISTOTELOYS MESO ERGATIKON;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;30;0;1000;;Revenue;;8272.79;ΤΡΙΑΝΔΡΙΑ - ΑΠΟΘΗΚΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;TRIANDRIA - APOTHIKI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;30;1;1268;;Revenue;;8573.03;ΤΡΙΑΝΔΡΙΑ - ΑΠΟΘΗΚΗ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;Stavroupoli;;TRIANDRIA - APOTHIKI-PARASKEYI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;30;1;196;;Revenue;;7908.56;ΑΠΟΘΗΚΗ - ΤΡΙΑΝΔΡΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;APOTHIKI - TRIANDRIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;30;1;2658;;Revenue;;8037.4;ΑΠΟΘΗΚΗ - ΤΡΙΑΝΔΡΙΑ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΡΑΣΚΕΥΗΣ;;;0;;;Stavroupoli;;APOTHIKI - TRIANDRIA-PARASKEYI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;30;1;845;;Revenue;;8252.4;ΑΠΟΘΗΚΗ - ΤΡΙΑΝΔΡΙΑ-ΔΕΥΤΕΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΔΕΥΤΕΡΑΣ;;;1;;;Stavroupoli;;APOTHIKI - TRIANDRIA-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;30;1;999;;Revenue;;8693.09;ΤΡΙΑΝΔΡΙΑ - ΑΠΟΘΗΚΗ-ΔΕΥΤΕΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΔΕΥΤΕΡΑΣ;;;1;;;Stavroupoli;;TRIANDRIA - APOTHIKI-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;31;0;581;;Revenue;;10403.34;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;VOYLGARI - K.T.E.L.;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;31;1;92;;Revenue;;11078.05;Κ.Τ.Ε.Λ. - ΒΟΥΛΓΑΡΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;K.T.E.L. - VOYLGARI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;32;0;84;;Revenue;;8157.6;Κ. ΗΛΙΟΥΠΟΛΗ-ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;K. ILIOYPOLI-ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;32;1;85;;Revenue;;7782.25;ΑΡΙΣΤΟΤΕΛΟΥΣ - Κ. ΗΛΙΟΥΠΟΛΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;ARISTOTELOYS - K. ILIOYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;32A;0;1077;;Revenue;;9456.94;Κ. ΗΛΙΟΥΠΟΛΗ - ΑΡΙΣΤΟΤΕΛΟΥΣ ΜΕΣΩ ΓΥΜΝΑΣΤΗΡΙΟΥ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;K. ILIOYPOLI - ARISTOTELOYS MESO GYMNASTIRIOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;32A;1;1078;;Revenue;;8682.03;ΑΡΙΣΤΟΤΕΛΟΥΣ - Κ. ΗΛΙΟΥΠΟΛΗ ΜΕΣΩ ΓΥΜΝΑΣΤΗΡΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;ARISTOTELOYS - K. ILIOYPOLI MESO GYMNASTIRIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;32A;1;1833;;Revenue;;7961.61;Κ. ΗΛΙΟΥΠΟΛΗ - ΑΡΙΣΤΟΤΕΛΟΥΣ ΜΕΣΩ ΓΥΜΝΑΣΤΗΡΙΟΥ-ΣΑΒΒΑΤΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΑΒΒΑΤΟ;;;1;;;Stavroupoli;;K. ILIOYPOLI - ARISTOTELOYS MESO GYMNASTIRIOY-SAVVATO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;32A;1;1834;;Revenue;;7776.32;ΑΡΙΣΤΟΤΕΛΟΥΣ - Κ. ΗΛΙΟΥΠΟΛΗ ΜΕΣΩ ΓΥΜΝΑΣΤΗΡΙΟΥ-ΣΑΒΒΑΤΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΣΑΒΒΑΤΟΥ;;;1;;;Stavroupoli;;ARISTOTELOYS - K. ILIOYPOLI MESO GYMNASTIRIOY-SAVVATO;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;32N;0;2401;;Revenue;;14736.73;Κ. ΗΛΙΟΥΠΟΛΗ-ΙΠΠΟΚΡΑΤΕΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;K. ILIOYPOLI-IPPOKRATEIO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;32N;1;2402;;Revenue;;13853.14;ΙΠΠΟΚΡΑΤΕΙΟ - Κ. ΗΛΙΟΥΠΟΛΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;IPPOKRATEIO - K. ILIOYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;32N;1;2403;;Revenue;;13977.33;ΙΠΠΟΚΡΑΤΕΙΟ - ΚΑΤΩ ΗΛΙΟΥΠΟΛΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;IPPOKRATEIO - K. ILIOYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;32N;1;2404;;Revenue;;13240.86;Κ. ΗΛΙΟΥΠΟΛΗ-ΙΠΠΟΚΡΑΤΕΙΟ-ΣΑΒΒΑΤΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΑΒΒΑΤΟΥ;;;1;;;Stavroupoli;;K. ILIOYPOLI-IPPOKRATEIO-SAVVATO;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;33;0;2198;;Revenue;;9733.33;ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝ-ΒΕΝΙΖΕΛΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;AG. PANTELEIMON-VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;33;1;2308;;Revenue;;9354.26;ΒΕΝΙΖΕΛΟΥ - ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;VENIZELOY - AG. PANTELEIMON;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;33A;1;2312;;Revenue;;11289.04;ΒΕΝΙΖΕΛΟΥ - ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;VENIZELOY - AG. PANTELEIMON - EMPORIKO KENTRO MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;33A;0;622;;Revenue;;11668.78;ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝ - ΒΕΝΙΖΕΛΟΥ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;AG. PANTELEIMON - VENIZELOY - EMPORIKO KENTRO MAKEDONIA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;33B;0;2537;;Revenue;;13712.21;ΑΓ. ΠΑΝΤΕΛΕΗΜΩΝ - ΒΕΝΙΖΕΛΟΥ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ-EAST PLAZA;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;AG. PANTELEIMON - VENIZELOY - EMPORIKO KENTRO MAKEDONIA-EAST PLAZA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;34;1;1143;;Revenue;;8983.39;ΑΡΙΣΤΟΤΕΛΟΥΣ - Α. ΗΛΙΟΥΠΟΛΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;ARISTOTELOYS - A. ILIOYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;34;0;75;;Revenue;;10709.89;Α. ΗΛΙΟΥΠΟΛΗ-ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;A. ILIOYPOLI-ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;34;0;962;;Revenue;;10465.11;Α. ΗΛΙΟΥΠΟΛΗ-ΑΡΙΣΤΟΤΕΛΟΥΣ-ΠΕΜΠΤΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;1;;;Stavroupoli;;A. ILIOYPOLI-ARISTOTELOYS-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;34A;0;0348;;Revenue;;;ΑΡΙΣΤΟΤΕΛΟΥΣ -Α. ΗΛΙΟΥΠΟΛΗ-ΑΡΙΣΤΟΤΕΛΟΥΣ ΕΠΙΣΤΡΟΦΗ ΜΕΣΩ ΕΥΞΕΙΝΟΥΠΟΛΗΣ-ΠΕΜΠΤΗ;;;0;0;0;;;ΚΥΚΛΙΚΗ;;;1;;;Stavroupoli;;ARISTOTELOUS -A. ILIOUPOLI-ARISTOTELOUS EPISTROFI MESO EFXEINOUPOLIS-PEMPTI;;ΚΥΚΛΙΚΗ
+2590;OASTH;Def;34A;0;0349;;Revenue;;;ΑΡΙΣΤΟΤΕΛΟΥΣ-Α. ΗΛΙΟΥΠΟΛΗ-ΑΡΙΣΤΟΤΕΛΟΥΣ ΕΠΙΣΤΡΟΦΗ ΜΕΣΩ ΕΥΞΕΙΝΟΥΠΟΛΗΣ;;;0;0;0;;;ΚΥΚΛΙΚΗ;;;1;;;Stavroupoli;;ARISTOTELOUS-A. ILIOUPOLI-ARISTOTELOUS EPISTROFI MESO EFXEINOUPOLIS;;ΚΥΚΛΙΚΗ
+2590;OASTH;Def;34A;1;34A;;Revenue;;;ΗΛΙΟΥΠΟΛΗ-ΑΡΙΣΤΟΤΕΛΟΥΣ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;ILIOUPOLI-ARISTOTELOUS;;34A
+2590;OASTH;Def;35;0;202;;Revenue;;6621.17;ΜΕΤΕΩΡΑ - ΒΕΝΙΖΕΛΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;Stavroupoli;;METEORA - VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;35;1;203;;Revenue;;6652.17;ΒΕΝΙΖΕΛΟΥ - ΜΕΤΕΩΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Stavroupoli;;VENIZELOY - METEORA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;35;1;2584;;Revenue;;6541.83;ΜΕΤΕΩΡΑ - ΒΕΝΙΖΕΛΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ ΠΕΤΑΛΟ;;;0;;;Stavroupoli;;METEORA - VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;35;1;2585;;Revenue;;6554.05;ΒΕΝΙΖΕΛΟΥ - ΜΕΤΕΩΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ ΠΕΤΑΛΟ;;;0;;;Stavroupoli;;VENIZELOY - METEORA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;35;0;2705;;Revenue;;6340.55;Ν.Σ.ΣΤΑΘΜΟΣ - ΜΕΤΕΩΡΑ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;N.S.STATHMOS - METEORA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;35;1;2707;;Revenue;;6744.65;ΜΕΤΕΩΡΑ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;METEORA - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;36;1;2743;;Revenue;;26076.68;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Α.Σ. Ι.Κ.Ε.Α.;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - A.S. I.K.E.A.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36;1;480;;Revenue;;25199.3;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Α.Σ. Ι.Κ.Ε.Α.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - A.S. I.K.E.A.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36A;1;2744;;Revenue;;21945.74;ΒΟΥΛΓΑΡΗ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ - ΚΟΣΜΟΣ - Α.Σ. Ι.Κ.Ε.Α.;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - ZONI KAINOTOMIAS - KOSMOS - A.S. I.K.E.A.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36A;1;482;;Revenue;;21066.28;ΒΟΥΛΓΑΡΗ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ - ΚΟΣΜΟΣ - Α.Σ. Ι.Κ.Ε.Α.;;;;;;;;ΒΟΥΛΓΑΡΗ-COSMOS;;;0;;;KTEL_Serron;;VOYLGARI - ZONI KAINOTOMIAS - KOSMOS - A.S. I.K.E.A.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36B;1;2745;;Revenue;;24172.69;ΒΟΥΛΓΑΡΗ - ΚΟΣΜΟΣ - Α.Σ. Ι.Κ.Ε.Α. - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - KOSMOS - A.S. I.K.E.A. - K.T.E.L. CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36B;1;629;;Revenue;;22983.03;ΒΟΥΛΓΑΡΗ - ΚΟΣΜΟΣ - Α.Σ. Ι.Κ.Ε.Α. - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΒΟΥΛΓΑΡΗ-ΚΟΣΜΟΣ-ΙΚΕΑ-ΚΤΕΛ;;;0;;;KTEL_Serron;;VOYLGARI - KOSMOS - A.S. I.K.E.A. - K.T.E.L. CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36E;1;2750;;Revenue;;19054.65;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36E;1;630;;Revenue;;17983.77;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;;;;;;ΚΕΝΤΡΟ ΔΙΑΔΟΣΗΣ-CEDEFOP;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36H;1;1168;;Revenue;;18867.21;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ - ΚΟΣΜΟΣ;;;;;;;;07:35 ΒΟΥΛΓΑΡΗ-CEDEFOP-ΚΤΕΛ-COSMOS-ΚΤΕΛ-ΒΟΥΛΓΑΡΗ;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - ZONI KAINOTOMIAS - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36H;1;2748;;Revenue;;19759.73;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ - ΚΟΣΜΟΣ;;;;;;;;16:15 ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - ZONI KAINOTOMIAS - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36H;1;2749;;Revenue;;19745.15;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ - ΚΟΣΜΟΣ;;;;;;;;07:35 ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - ZONI KAINOTOMIAS - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36H;1;942;;Revenue;;18882.47;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ - ΚΟΣΜΟΣ;;;;;;;;16:15 ΒΟΥΛΓΑΡΗ-ΚΤΕΛ-CEDEFOP-COSMOS-ΚΤΕΛ-ΒΟΥΛΓΑΡΗ;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - ZONI KAINOTOMIAS - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36K;1;2751;;Revenue;;17512.9;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Κ.Τ.Ε.Λ.;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - K.T.E.L.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36K;1;491;;Revenue;;16346.08;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Κ.Τ.Ε.Λ.;;;;;;;;ΒΟΥΛΓΑΡΗ-ΚΤΕΛ-COSMOS;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - K.T.E.L.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36N;1;2752;;Revenue;;13051.94;ΒΟΥΛΓΑΡΗ - ΚΟΣΜΟΣ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36N;1;628;;Revenue;;12169.68;ΒΟΥΛΓΑΡΗ - ΚΟΣΜΟΣ;;;;;;;;ΒΟΥΛΓΑΡΗ-ΚΟΣΜΟΣ;;;0;;;KTEL_Serron;;VOYLGARI - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36P;1;2753;;Revenue;;17282.76;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36P;1;631;;Revenue;;16291.99;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;0;0;1;;;ΚΕΝΤΡΟ ΔΙΑΔΟΣΗΣ;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36T;1;2754;;Revenue;;10332.5;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36T;1;481;;Revenue;;9453.13;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΒΟΥΛΓΑΡΗ-ΚΤΕΛ ΧΑΛΚΙΔΙΚΗΣ;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;36X;0;2638;;Revenue;;14973.18;Α.Σ.ΙΚΕΑ - ΤΡΙΑΝΔΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;A.S.IKEA - TRIANDRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;36X;1;2639;;Revenue;;14724.58;ΤΡΙΑΝΔΡΙΑ - Α.Σ.ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;TRIANDRIA - A.S.IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;36X;1;2640;;Revenue;;16040.34;Α.Σ.ΙΚΕΑ - ΤΡΙΑΝΔΡΙΑ-ΔΕΥΤΕΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΔΕΥΤΕΡΑΣ;;;1;;;KTEL_Thessalonikis;;A.S.IKEA - TRIANDRIA-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;36X;1;2641;;Revenue;;15153.33;ΤΡΙΑΝΔΡΙΑ - Α.Σ.ΙΚΕΑ-ΔΕΥΤΕΡΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΔΕΥΤΕΡΑΣ;;;1;;;KTEL_Thessalonikis;;TRIANDRIA - A.S.IKEA-DEYTERA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;36X;1;2642;;Revenue;;15093.96;ΤΡΙΑΝΔΡΙΑ - Α.Σ.ΙΚΕΑ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;KTEL_Thessalonikis;;TRIANDRIA - A.S.IKEA-PARASKEYI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;36X;0;2643;;Revenue;;20665.12;Α.Σ.ΙΚΕΑ - ΤΡΙΑΝΔΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;A.S.IKEA - TRIANDRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;36X;1;2644;;Revenue;;21731.5;Α.Σ.ΙΚΕΑ - ΤΡΙΑΝΔΡΙΑ-ΔΕΥΤΕΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΔΕΥΤΕΡΑΣ;;;1;;;KTEL_Thessalonikis;;A.S.IKEA - TRIANDRIA-DEYTERA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36Y;1;1060;;Revenue;;14696.41;ΒΟΥΛΓΑΡΗ - ΚΟΣΜΟΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;0;0;1;;;36Υ ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Serron;;VOYLGARI - KOSMOS - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36Y;1;2755;;Revenue;;15578.04;ΒΟΥΛΓΑΡΗ - ΚΟΣΜΟΣ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - KOSMOS - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36Z;0;1732;;Revenue;;26919.07;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Α.Σ. ΙΚΕΑ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - A.S. IKEA - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;36Z;1;2756;;Revenue;;27807.76;ΒΟΥΛΓΑΡΗ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Α.Σ. ΙΚΕΑ - ΖΩΝΗ ΚΑΙΝΟΤΟΜΙΑΣ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;VOYLGARI - K.T.E.L. CHALKIDIKIS - KOSMOS - A.S. IKEA - ZONI KAINOTOMIAS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;37;0;2515;;Revenue;;6244.77;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΡΥΟΝΕΡΙ;;;0;0;1;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗ 01/03/23;;;1;;;Stavroupoli;;N.S. STATHMOS - KRYONERI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;37;1;2516;;Revenue;;6181.52;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΡΥΟΝΕΡΙ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΕΚΤΡΟΠΗ ΜΕΤ ΠΑΡΑΣΚΕΥΗΣ 01/03/23;;;1;;;Stavroupoli;;N.S. STATHMOS - KRYONERI-PARASKEYI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;37;1;2517;;Revenue;;7139.72;ΚΡΥΟΝΕΡΙ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗ 01/03/23;;;1;;;Stavroupoli;;KRYONERI - N.S. STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;37;1;2518;;Revenue;;6919.84;ΚΡΥΟΝΕΡΙ - Ν.Σ. ΣΤΑΘΜΟΣ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣ ΠΑΡΑΣΚΕΥΗΣ 01/03/23;;;0;;;Stavroupoli;;KRYONERI - N.S. STATHMOS-PARASKEYI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;38;1;2479;;Revenue;;9214.93;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΝΕΑ ΕΥΚΑΡΠΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΑΡΙΣΤΟΤΕΛΟΥΣ;;;0;;;Stavroupoli;;ARISTOTELOYS - NEA EYKARPIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;38;0;2480;;Revenue;;9209.44;ΝΕΑ ΕΥΚΑΡΠΙΑ - ΑΡΙΣΤΟΤΕΛΟΥΣ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΑΡΙΣΤΟΤΕΛΟΥΣ;;;1;;;Stavroupoli;;NEA EYKARPIA - ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;38;1;2676;;Revenue;;9361.17;ΝΕΑ ΕΥΚΑΡΠΙΑ 0 ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗΣ 2024;;;1;;;Stavroupoli;;NEA EYKARPIA 0 ARISTOTELOYS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;39;1;2253;;Revenue;;8778.96;ΔΙΚΑΣΤΗΡΙΑ - ΚΗΦΙΣΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Finikas;;DIKASTIRIA - KIFISIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;39;0;2309;;Revenue;;9741.62;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;KIFISIA - DIKASTIRIA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;39;1;2313;;Revenue;;9978.15;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;Finikas;;KIFISIA - DIKASTIRIA-PARASKEYI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;39;1;2693;;Revenue;;9492.86;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ 04/11/24;;;1;;;Finikas;;KIFISIA - DIKASTIRIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;39A;1;2254;;Revenue;;10691.07;ΔΙΚΑΣΤΗΡΙΑ - ΚΗΦΙΣΙΑ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Finikas;;DIKASTIRIA - KIFISIA - EMPORIKO KENTRO MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;39A;0;2314;;Revenue;;11710.78;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;KIFISIA - DIKASTIRIA - EMPORIKO KENTRO MAKEDONIA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;39A;1;2315;;Revenue;;11943.18;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;Finikas;;KIFISIA - DIKASTIRIA - EMPORIKO KENTRO MAKEDONIA-PARASKEYI;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;39A;1;2694;;Revenue;;11400.5;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ 04/11/24;;;1;;;Finikas;;KIFISIA - DIKASTIRIA - EMPORIKO KENTRO MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;39B;0;2542;;Revenue;;13738.62;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ-EAST PLAZA;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;KIFISIA - DIKASTIRIA - EMPORIKO KENTRO MAKEDONIA-EAST PLAZA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;39B;1;2543;;Revenue;;13983.99;ΚΗΦΙΣΙΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΜΠΟΡIKO ΚΕΝΤΡΟ ΜΑΚΕΔΟΝΙΑ-EAST PLAZA-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;Finikas;;KIFISIA - DIKASTIRIA - EMPORIKO KENTRO MAKEDONIA-EAST PLAZA-PARASKEYI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;40;0;1212;;Revenue;;11376.08;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΑΛΟΧΩΡΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - KALOCHORI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;40;1;1213;;Revenue;;9326.22;ΚΑΛΟΧΩΡΙ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KALOCHORI - N.S. STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;40A;0;1214;;Revenue;;11947.25;Ν.Σ. ΣΤΑΘΜΟΣ - ΚΑΛΟΧΩΡΙ ΜΕΣΩ Σ.Δ.Ο.Ε.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - KALOCHORI MESO S.D.O.E.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;40A;1;1215;;Revenue;;9294.92;ΚΑΛΟΧΩΡΙ - Ν.Σ. ΣΤΑΘΜΟΣ ΜΕΣΩ Σ.Δ.Ο.Ε.;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KALOCHORI - N.S. STATHMOS MESO S.D.O.E.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;40K;1;1217;;Revenue;;9805.51;ΚΑΛΟΧΩΡΙ - Ν.Σ. ΣΤΑΘΜΟΣ ΜΕΣΩ ΡΟΜΠΟΠΟΥΛΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KALOCHORI - N.S. STATHMOS MESO ROMPOPOYLOY;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;42;1;1295;;Revenue;;10318.25;ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ - ΚΟΡΔΕΛΙΟ-ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΣΑΒ/ΚΟ;;;1;;;KTEL_Thessalonikis;;KOIMITIRIA EYOSMOY - KORDELIO-SAVVATO-KYRIAKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;42;1;254;;Revenue;;10633.11;ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ - ΚΟΡΔΕΛΙΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KOIMITIRIA EYOSMOY - KORDELIO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;42;1;2545;;Revenue;;10757.89;ΚΟΡΔΕΛΙΟ - ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ 01/06/23;;;1;;;KTEL_Thessalonikis;;KORDELIO - KOIMITIRIA EYOSMOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;42A;1;2547;;Revenue;;15516.77;ΚΟΡΔΕΛΙΟ-ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ ΑΠΟ ΜΕΝΕΜΕΝΗ;;;;;;;;ΜΕΤΑΒΑΣΗ 01/06/23;;;0;;;KTEL_Thessalonikis;;KORDELIO-KOIMITIRIA EYOSMOY APO MENEMENI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;42A;1;2678;;Revenue;;14256.18;ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ ΜΕΣΩ ΜΕΝΕΜΕΝΗΣ;;;;;;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗ 10-09-24;;;1;;;KTEL_Thessalonikis;;KOIMITIRIA EYOSMOY MESO MENEMENIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;42A;1;455;;Revenue;;14270.46;ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ - ΚΟΡΔΕΛΙΟ ΑΠΟ ΜΕΝΕΜΕΝΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KOIMITIRIA EYOSMOY - KORDELIO APO MENEMENI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;42B;1;2548;;Revenue;;19533.08;ΚΟΡΔΕΛΙΟ-ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ 01/06/23;;;0;;;KTEL_Thessalonikis;;KORDELIO-KOIMITIRIA EYOSMOY MESO AMPELOKIPON;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;42B;0;2679;;Revenue;;18264.99;ΚΟΡΔΕΛΙΟ - ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;0;0;1;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗΣ 10-09-24;;;1;;;KTEL_Thessalonikis;;KOIMITIRIA EYOSMOY -KORDELIO MESO AMPELOKIPON;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;42B;1;452;;Revenue;;18675.58;ΚΟΙΜΗΤΗΡΙΑ ΕΥΟΣΜΟΥ -ΚΟΡΔΕΛΙΟ ΜΕΣΩ ΑΜΠΕΛΟΚΗΠΩΝ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KOIMITIRIA EYOSMOY -KORDELIO MESO AMPELOKIPON;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;43;1;2211;;Revenue;;13534.61;ΤΟΠΙΚΟ ΕΥΟΣΜΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ 06-02-17;;;1;;;KTEL_Thessalonikis;;TOPIKO EYOSMOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;43;1;2212;;Revenue;;13292.75;ΤΟΠΙΚΟ ΕΥΟΣΜΟΥ-ΠΕΜΠΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ 06-02-17;;;1;;;KTEL_Thessalonikis;;TOPIKO EYOSMOY-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;43Y;0;2624;;Revenue;;13840.16;ΚΑΤΩ ΗΛΙΟΥΠΟΛΗ-ΒΟΥΛΓΑΡΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KATO ILIOYPOLI-VOYLGARI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;43Y;1;2625;;Revenue;;13225.17;ΒΟΥΛΓΑΡΗ-ΚΑΤΩ ΗΛΙΟΥΠΟΛΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;VOYLGARI-KATO ILIOYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;44;1;2701;;Revenue;;5290.37;ΙΣΤΟΡΙΚΟ ΚΕΝΤΡΟ;;;;;;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;Stavroupoli;;ISTORIKO KENTRO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;45;1;2523;;Revenue;;17177.08;Κ.Τ.Ε.Λ. ΜΑΚΕΔΟΝΙΑ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ;;;;;;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;K.T.E.L. MAKEDONIA - K.T.E.L. CHALKIDIKIS - KOSMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;45;1;2524;;Revenue;;15771.33;ΚΟΣΜΟΣ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - Κ.Τ.Ε.Λ. ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;KOSMOS - K.T.E.L. CHALKIDIKIS - K.T.E.L. MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;45A;1;2525;;Revenue;;14037.69;Κ.Τ.Ε.Λ. ΜΑΚΕΔΟΝΙΑ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;K.T.E.L. MAKEDONIA - K.T.E.L. CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;45A;1;2526;;Revenue;;13877.18;Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - Κ.Τ.Ε.Λ. ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;K.T.E.L. CHALKIDIKIS - K.T.E.L. MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;45B;1;2527;;Revenue;;15013.8;Κ.Τ.Ε.Λ. ΜΑΚΕΔΟΝΙΑ - ΚΟΣΜΟΣ - Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΕΚΤΡΟΠΗ ΜΕΤΑΒΑΣΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;K.T.E.L. MAKEDONIA - KOSMOS - K.T.E.L. CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;45B;1;2528;;Revenue;;17725.44;Κ.Τ.Ε.Λ. ΧΑΛΚΙΔΙΚΗΣ - ΚΟΣΜΟΣ - Κ.Τ.Ε.Λ. ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;K.T.E.L. CHALKIDIKIS - KOSMOS - K.T.E.L. MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;45Y;1;2652;;Revenue;;16957.74;Τ.Σ Κ.Τ.Ε.Λ ΜΑΚΕΔΟΝΙΑ-Α.Σ.ΙΚΕΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΦΕΒΡΟΥΑΡΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;T.S K.T.E.L MAKEDONIA-A.S.IKEA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;45Y;1;2653;;Revenue;;15392.44;Α.Σ.ΙΚΕΑ-Τ.Σ Κ.Τ.Ε.Λ ΜΑΚΕΔΟΝΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΦΕΒΡΟΥΑΡΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;A.S.IKEA-T.S K.T.E.L MAKEDONIA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;50;1;2386;;Revenue;;11363.2;ΠΟΛΙΤΙΣΤΙΚΗ ΓΡΑΜΜΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ;;;1;;;Finikas;;POLITISTIKI GRAMMI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;51;1;2513;;Revenue;;16428.6;ΣΙΝΔΟΣ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;SINDOS - N.S.STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;51;1;2514;;Revenue;;18587.95;Ν.Σ.ΣΤΑΘΜΟΣ - ΣΙΝΔΟΣ;;;;;;;;ΕΚΤΡΟΠΗ ΕΠΙΣΤΡΟΦΗ 01/03/23;;;1;;;KTEL_Thessalonikis;;N.S.STATHMOS - SINDOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;51A;1;635;;Revenue;;19040.51;ΣΙΝΔΟΣ - ΑΝΑΤΟΛΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΑΝΑΤΟΛΙΚΟ;;;1;;;KTEL_Thessalonikis;;SINDOS - ANATOLIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;51B;1;2673;;Revenue;;25892.6;Ν.Σ.ΣΤΑΘΜΟΣ-ΣΙΝΔΟΣ ΜΕΣΩ ΒΙ.ΠΕ.Θ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;N.S.STATHMOS-SINDOS MESO VI.PE.TH;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;52;1;211;;Revenue;;14996.02;Ν.Σ. ΣΤΑΘΜΟΣ - ΔΙ.ΠΑ.Ε ΑΛΕΞΑΝΔΡΕΙΑ ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΙΝΔΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;N.S. STATHMOS - DI.PA.E ALEKSANDREIA PANEPISTIMIOYPOLI - SINDOS;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;52;0;881;;Revenue;;14067.39;ΣΙΝΔΟΣ - ΔΙ.ΠΑ.Ε ΑΛΕΞΑΝΔΡΕΙΑ ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;SINDOS - DI.PA.E ALEKSANDREIA PANEPISTIMIOYPOLI - N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;52A;0;2248;;Revenue;;12901.67;ΔΙ.ΠΑ.Ε ΑΛΕΞΑΝΔΡΕΙΑ ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;DI.PA.E ALEKSANDREIA PANEPISTIMIOYPOLI - N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;52A;1;2250;;Revenue;;12026.14;Ν.Σ. ΣΤΑΘΜΟΣ - ΔΙ.ΠΑ.Ε ΑΛΕΞΑΝΔΡΕΙΑ ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;Stavroupoli;;N.S. STATHMOS - DI.PA.E ALEKSANDREIA PANEPISTIMIOYPOLI ;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;52A;1;2687;;Revenue;;13214.99;Ν.Σ. ΣΤΑΘΜΟΣ - ΔΙ.ΠΑ.Ε ΑΛΕΞΑΝΔΡΕΙΑ ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ 02/10/24;;;0;;;Stavroupoli;;N.S. STATHMOS - DI.PA.E ALEKSANDREIA PANEPISTIMIOYPOLI ;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;52A;1;2687_1;;Revenue;;;Ν.Σ. ΣΤΑΘΜΟΣ - ΔΙ.ΠΑ.Ε ΑΛΕΞΑΝΔΡΕΙΑ ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ ΑΠΟ 04-03-2025;;;1;;ΑΠΟΦΑΣΗ 15/25-02-2025;Stavroupoli;;N.S. STATHMOS - DI.PA.E ALEXANDREIA PANEPISTIMIOUPOLI;2025-03-04;ΕΠΙΣΤΡΟΦΗ 
+2590;OASTH;Def;52B;0;2665;;Revenue;;26595.15;ΑΡΙΣΤΟΥΤΕΛΟΥΣ- ΒΙ.ΠΕ.Θ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;;ARISTOYTELOYS- VI.PE.TH;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;52B;1;2666;;Revenue;;26750.75;ΒΙ.ΠΕ.Θ-ΑΡΙΣΤΟΥΤΕΛΟΥΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Stavroupoli;;VI.PE.TH-ARISTOYTELOYS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;53;1;2438;;Revenue;;15019.17;ΣΙΝΔΟΣ ΤΟΠΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΙΟΥΝΙΟΣ 2021;;;0;;;KTEL_Thessalonikis;;SINDOS TOPIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;53;1;2674;;Revenue;;16510.97;ΤΟΠΙΚΟ ΣΙΝΔΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ ΣΕΠΤΕΜΒΡΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;TOPIKO SINDOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;53A;0;2675;;Revenue;;11033.86;ΤΟΠΙΚΟ ΣΙΝΔΟΥ-Γ ΦΑΣΗ ΒΙ.ΠΕ.Θ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;TOPIKO SINDOY-G FASI VI.PE.TH;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;53B;0;53Β;;Revenue;;;Γ ΦΑΣΗ ΒΙ.ΠΕ.Θ - Σ.Σ. ΣΙΝΔΟΥ- ΔΙ.ΠΑ.Ε;;;0;0;0;;;ΚΥΚΛΙΚΗ;;;1;;;Thessalonikis;;G FASI VI.PE.Th - S.S. SINDOU- DI.PA.E;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;53Σ;1;53Σ;;Revenue;;;ΔΙ.ΠΑ.Ε - Σ.Σ.ΣΙΝΔΟΥ - Γ ΦΑΣΗ ΒΙ.ΠΕ.Θ;;;0;0;0;;;ΚΥΚΛΙΚΗ;;;1;;;THESSALONIKIS;;DI.PA.E - S.S.SINDOU - G FASI VI.PE.TH;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;54;0;134;;Revenue;;14708.69;Ν.Σ.ΣΤΑΘΜΟΣ - ΙΩΝΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;N.S.STATHMOS - IONIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;54;1;1498;;Revenue;;10741.63;ΙΩΝΙΑ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;IONIA - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;54A;1;1499;;Revenue;;10749.2;ΙΩΝΙΑ - Ν.Σ.ΣΤΑΘΜΟΣ ΜΕΣΩ Ι.Ν. ΑΓ. ΑΘΑΝΑΣΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;IONIA - N.S.STATHMOS MESO I.N. AG. ATHANASIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;54A;0;958;;Revenue;;15917.77;Ν.Σ. ΣΤΑΘΜΟΣ - ΙΩΝΙΑ ΜΕΣΩ Ι.Ν. ΑΓ. ΑΘΑΝΑΣΙΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - IONIA MESO I.N. AG. ATHANASIOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55;0;1652;;Revenue;;17406.66;ΣΤΑΥΡΟΥΠΟΛΗ-ΩΡΑΙΟΚΑΣΤΡΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI-ORAIOKASTRO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55;0;1688;;Revenue;;16875.56;ΣΤΑΥΡΟΥΠΟΛΗ-ΩΡΑΙΟΚΑΣΤΡΟ-ΠΕΜΠΤΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI-ORAIOKASTRO-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55A;1;1690;;Revenue;;20794.22;ΣΤΑΥΡΟΥΠΟΛΗ - ΓΥΜΝΑΣΙΟ-ΠΕΜΠΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΠΕΜΠΤΗΣ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - GYMNASIO-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55A;1;1782;;Revenue;;22839.59;ΣΤΑΥΡΟΥΠΟΛΗ - ΓΥΜΝΑΣΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 7:35;;;0;;;KTEL_Thessalonikis;;STAYROYPOLI - GYMNASIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55A;1;2153;;Revenue;;21722.65;ΣΤΑΥΡΟΥΠΟΛΗ - ΓΥΜΝΑΣΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ 14-03-16;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - GYMNASIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55B;0;319;;Revenue;;18074.4;ΣΤΑΥΡΟΥΠΟΛΗ - ΠΑΛΑΙΑ ΣΥΜΜΑΧΙΚΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - PALAIA SYMMACHIKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55E;0;473;;Revenue;;7358.16;ΣΤΑΥΡΟΥΠΟΛΗ - ΦΙΛΟΘΕΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - FILOTHEI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55K;0;605;;Revenue;;20595.46;ΣΤΑΥΡΟΥΠΟΛΗ - ΙΩΝΙΑ ΜΕΣΩ ΕΛ.ΤΑ.;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - IONIA MESO EL.TA.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55P;0;2181;;Revenue;;21526.88;ΣΤΑΥΡΟΥΠΟΛΗ-ΝΕΟΧΩΡΟΥΔΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI-NEOCHOROYDA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55T;0;2453;;Revenue;;4603.68;ΩΡΑΙΟΚΑΣΤΡΟ - ΝΕΟΧΩΡΟΥΔΑ ΣΧΟΛΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;ORAIOKASTRO - NEOCHOROYDA SCHOLIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55T;1;2454;;Revenue;;4742.53;ΝΕΟΧΩΡΟΥΔΑ - ΩΡΑΙΟΚΑΣΤΡΟ ΣΧΟΛΙΚΟ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;NEOCHOROYDA - ORAIOKASTRO SCHOLIKO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;55T;1;2454_1;;Revenue;;;ΝΕΟΧΩΡΟΥΔΑ - ΩΡΑΙΟΚΑΣΤΡΟ ΣΧΟΛΙΚΟ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;NEOCHOROYDA - ORAIOKASTRO SCHOLIKO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;55X;0;2380;;Revenue;;17018.64;ΣΤΑΥΡΟΥΠΟΛΗ-ΔΟΜΗ-Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI-DOMI-N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55X;1;2381;;Revenue;;17088.75;Ν.Σ. ΣΤΑΘΜΟΣ - ΔΟΜΗ - ΣΤΑΥΡΟΥΠΟΛΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - DOMI - STAYROYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;55Y;0;2630;;Revenue;;10410.94;ΣΤΑΥΡΟΥΠΟΛΗ - Κ.Τ.Ε.Λ - Ν.Σ.Σ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - K.T.E.L - N.S.S;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;55Y;1;2631;;Revenue;;12379.63;Ν.Σ.Σ - Κ.Τ.Ε.Λ - ΣΤΑΥΡΟΥΠΟΛΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;N.S.S - K.T.E.L - STAYROYPOLI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;56;1;2191;;Revenue;;14259.86;Ν.Σ.ΣΤΑΘΜΟΣ-ΩΡΑΙΟΚΑΣΤΡΟ-ΠΕΜΠΤΗ;;;0;0;1;;;ΠΕΜΠΤΗΣ ΕΚΤΡΟΠΗ 18-02-17;;;1;;;KTEL_Thessalonikis;;N.S.STATHMOS-ORAIOKASTRO-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;56;1;2208;;Revenue;;14784.53;ΩΡΑΙΟΚΑΣΤΡΟ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;ORAIOKASTRO - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;56;1;2234;;Revenue;;14848.38;Ν.Σ.ΣΤΑΘΜΟΣ-ΩΡΑΙΟΚΑΣΤΡΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 18-02-17;;;1;;;KTEL_Thessalonikis;;N.S.STATHMOS-ORAIOKASTRO ;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;56A;1;1656;;Revenue;;16532.63;ΩΡΑΙΟΚΑΣΤΡΟ - ΓΥΜΝΑΣΙΟ -  Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;ORAIOKASTRO - GYMNASIO -  N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;56A;1;2192;;Revenue;;15414.53;Ν.Σ. ΣΤΑΘΜΟΣ - ΩΡΑΙΟΚΑΣΤΡΟ - ΓΥΜΝΑΣΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 18-02-17;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - ORAIOKASTRO - GYMNASIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;56A;1;2193;;Revenue;;14867.5;Ν.Σ. ΣΤΑΘΜΟΣ - ΩΡΑΙΟΚΑΣΤΡΟ - ΓΥΜΝΑΣΙΟ-ΠΕΜΠΤΗ;;;0;0;1;;;ΠΕΜΠΤΗΣ ΕΚΤΡΟΠΗ 18-02-17;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - ORAIOKASTRO - GYMNASIO-PEMPTI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;57;1;2274;;Revenue;;15031.67;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΑΣΒΕΣΤΟΧΩΡΙ - ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΜΕΤΑΒΑΣΗ ΝΕΑ 15-04-18;;;0;;;KTEL_Thessalonikis;;D/SI CHORTIATI - ASVESTOCHORI - ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;57;1;2275;;Revenue;;15027.69;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΑΣΒΕΣΤΟΧΩΡΙ - Δ/ΣΗ ΧΟΡΤΙΑΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΝΕΑ 15-04-18;;;0;;;KTEL_Thessalonikis;;ARISTOTELOYS - ASVESTOCHORI - D/SI CHORTIATI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;57;1;2667;;Revenue;;15048.4;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΑΣΒΕΣΤΟΧΩΡΙ - ΑΡΙΣΤΟΤΕΛΟΥΣ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΡΓΑ 09/07/24-4/9/24;;;0;;;KTEL_Thessalonikis;;D/SI CHORTIATI - ASVESTOCHORI - ARISTOTELOYS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;57;0;2695;;Revenue;;15574.77;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΑΣΒΕΣΤΟΧΩΡΙ - Ν.Σ. ΣΤΑΘΜΟΣ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Thessalonikis;;D/SI CHORTIATI - ASVESTOCHORI - N.S. STATHMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;57;0;2695_1;;Revenue;;;ΔΙΑΣΤΑΥΡΩΣΗ ΧΟΡΤΙΑΤΗ - ΑΣΒΕΣΤΟΧΩΡΙ - ΕΡΜΟΥ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ - ΕΡΜΟΥ;;;1;;25/12-05-2025;Thessalonikis;;DIASTAVROSI CHORTIATI - ASVESTOCHORI - ERMOU;2025-06-01;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;57;1;2698;;Revenue;;14659.76;Ν.Σ. ΣΤΑΘΜΟΣ - ΑΣΒΕΣΤΟΧΩΡΙ - Δ/ΣΗ ΧΟΡΤΙΑΤΗ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - ASVESTOCHORI - D/SI CHORTIATI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;57;1;2698_1;;Revenue;;;ΕΡΜΟΥ - ΑΣΒΕΣΤΟΧΩΡΙ - ΔΙΑΣΤΑΥΡΩΣΗ ΧΟΡΤΙΑΤΗ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ - ΕΡΜΟΥ;;;1;;25/12-05-2025;Thessalonikis;;ERMOU - ASVESTOCHORI - DIASTAVROSI CHORTIATI;2025-06-01;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;58;1;1792;;Revenue;;16727.74;ΒΕΝΙΖΕΛΟΥ - ΠΑΝΟΡΑΜΑ - Δ/ΣΗ ΧΟΡΤΙΑΤΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ ΑΝΑΞ-ΚΑΝ;;;0;;;KTEL_Serron;;VENIZELOY - PANORAMA - D/SI CHORTIATI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;58;1;1793;;Revenue;;16255.94;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΠΑΝΟΡΑΜΑ - ΒΕΝΙΖΕΛΟΥ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΑΝΑΞ-ΚΑΝ;;;0;;;KTEL_Serron;;D/SI CHORTIATI - PANORAMA - VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;58;1;192;;Revenue;;16727.74;ΒΕΝΙΖΕΛΟΥ - ΠΑΝΟΡΑΜΑ - Δ/ΣΗ ΧΟΡΤΙΑΤΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;KTEL_Serron;;VENIZELOY - PANORAMA - D/SI CHORTIATI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;58;0;193;;Revenue;;16255.94;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΠΑΝΟΡΑΜΑ - ΒΕΝΙΖΕΛΟΥ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Serron;;D/SI CHORTIATI - PANORAMA - VENIZELOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;58;0;2700_1;;Revenue;;;ΔΙΑΣΤΑΥΡΩΣΗ ΧΟΡΤΙΑΤΗ - ΠΑΝΟΡΑΜΑ - ΒΕΝΙΖΕΛΟΥ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;Απόφαση 26/12-05-2025;KTEL_S;2025-06-30;DIASTAVROSI CHORTIATI - PANORAMA - VENIZELOU;2025-06-01;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;58;1;2734_1;;Revenue;;;ΒΕΝΙΖΕΛΟΥ - ΠΑΝΟΡΑΜΑ - ΔΙΑΣΤΑΥΡΩΣΗ ΧΟΡΤΙΑΤΗ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;;Απόφαση 26/12-05-2025;KTEL_S;2025-06-30;VENIZELOU - PANORAMA - DIASTAVROSI CHORTIATI;2025-06-01;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;58A;0;2700;;Revenue;;15299.21;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΠΑΝΟΡΑΜΑ - ΠΑΝΕΠΙΣΤΗΜΙΟ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;0;;;KTEL_Serron;;D/SI CHORTIATI - PANORAMA - PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;58A;1;2734;;Revenue;;15208.85;ΠΑΝΕΠΙΣΤΗΜΙΟ - ΠΑΝΟΡΑΜΑ - Δ/ΣΗ ΧΟΡΤΙΑΤΗ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;0;;;KTEL_Serron;;PANEPISTIMIO - PANORAMA - D/SI CHORTIATI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;58B;0;2704;;Revenue;;13527.61;Δ/ΣΗ ΧΟΡΤΙΑΤΗ - ΠΑΝΟΡΑΜΑ - ΝΕΑ ΕΛΒΕΤΙΑ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;0;;;KTEL_Serron;;D/SI CHORTIATI - PANORAMA - NEA ELVETIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;58B;1;2706;;Revenue;;13524.88;ΝΕΑ ΕΛΒΕΤΙΑ - ΠΑΝΟΡΑΜΑ - Δ/ΣΗ ΧΟΡΤΙΑΤΗ;;;0;0;1;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;0;;;KTEL_Serron;;NEA ELVETIA - PANORAMA - D/SI CHORTIATI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;59;1;2007;;Revenue;;11676.34;ΤΟΠΙΚΟ ΠΕΥΚΩΝ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;TOPIKO PEYKON;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;59A;0;2031;;Revenue;;12449.26;ΓΥΜΝΑΣΙΟ ΠΕΥΚΩΝ - ΚΥΚΛΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;GYMNASIO PEYKON - KYKLIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;59B;1;2252;;Revenue;;11039.82;ΓΥΜΝΑΣΙΟ ΠΕΥΚΩΝ;;;;;;;;ΚΥΚΛΙΚΟ ΣΧΟΛΙΚΟ ΜΕΣΗΜΕΡΙ;;;1;;;KTEL_Serron;;GYMNASIO PEYKON;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;59K;0;2032;;Revenue;;13884.84;ΤΟΠΙΚΟ ΠΕΥΚΩΝ - ΚΟΙΜΗΤΗΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;TOPIKO PEYKON - KOIMITIRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;60A;0;1696;;Revenue;;17414.31;ΟΙΚΙΣΜΟΣ ΜΑΚΕΔΟΝΙΑ ΠΑΝΟΡΑΜΑΤΟΣ (ΜΑΚΕΔ/ΜΑΧΩΝ);;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;OIKISMOS MAKEDONIA PANORAMATOS (MAKED/MACHON);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;60B;0;1697;;Revenue;;17769.26;ΟΙΚΙΣΜΟΣ ΜΑΚΕΔΟΝΙΑ ΠΑΝΟΡΑΜΑΤΟΣ (Ι.ΔΡΑΓΟΥΜΗ);;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;OIKISMOS MAKEDONIA PANORAMATOS (I.DRAGOYMI);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;60E;0;2135;;Revenue;;11307.22;ΠΑΝΟΡΑΜΑ - ΘΕΡΜΗ - Α.Σ. ΙΚΕΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;PANORAMA - THERMI - A.S. IKEA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;60E;1;2136;;Revenue;;11135.88;Α.Σ. ΙΚΕΑ - ΘΕΡΜΗ - ΠΑΝΟΡΑΜΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;A.S. IKEA - THERMI - PANORAMA ;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;61;0;1512;;Revenue;;4257.68;ΧΟΡΤΙΑΤΗΣ - ΔΙΑΣΤΑΥΡΩΣΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;CHORTIATIS - DIASTAYROSI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;61;1;293;;Revenue;;4276.59;ΔΙΑΣΤΑΥΡΩΣΗ - ΧΟΡΤΙΑΤΗΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;DIASTAYROSI - CHORTIATIS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;61A;1;1081;;Revenue;;5478.63;ΔΙΑΣΤΑΥΡΩΣΗ - ΧΟΡΤΙΑΤΗΣ - ΛΥΚΕΙΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;DIASTAYROSI - CHORTIATIS - LYKEIO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;61A;0;1798;;Revenue;;10006.03;ΧΟΡΤΙΑΤΗΣ - ΔΙΑΣΤΑΥΡΩΣΗ - ΛΥΚΕΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;CHORTIATIS - DIASTAYROSI - LYKEIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;64;0;2194;;Revenue;;12142.19;Ν.Σ.ΣΤΑΘΜΟΣ - ΦΙΛΥΡΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 29-9-16;;;1;;;KTEL_Serron;;N.S.STATHMOS - FILYRO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;64;1;840;;Revenue;;12558.32;ΦΙΛΥΡΟ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;FILYRO - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;64A;0;2195;;Revenue;;17964.03;Ν.Σ. ΣΤΑΘΜΟΣ - ΦΙΛΥΡΟ ΠΑΙΔΙΚΟ ΧΩΡΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 29-9-16;;;1;;;KTEL_Serron;;N.S. STATHMOS - FILYRO PAIDIKO CHORIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;64A;1;841;;Revenue;;18431.52;ΦΙΛΥΡΟ ΠΑΙΔΙΚΟ ΧΩΡΙΟ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;FILYRO PAIDIKO CHORIO - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;64B;0;1993;;Revenue;;13834.96;Ν.Σ. ΣΤΑΘΜΟΣ - ΦΙΛΥΡΟ ΧΡΙΣΤΙΑΝΙΚΗ ΕΛΠΙΔΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;N.S. STATHMOS - FILYRO CHRISTIANIKI ELPIDA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;64B;1;1994;;Revenue;;14330.37;ΦΙΛΥΡΟ ΧΡΙΣΤΙΑΝΙΚΗ ΕΛΠΙΔΑ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;FILYRO CHRISTIANIKI ELPIDA - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;64E;1;1862;;Revenue;;12774.18;ΦΙΛΥΡΟ ΛΥΚΕΙΟ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 64Ε;;;1;;;KTEL_Serron;;FILYRO LYKEIO - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;64E;0;2196;;Revenue;;12354.74;Ν.Σ.ΣΤΑΘΜΟΣ - ΦΙΛΥΡΟ ΛΥΚΕΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 29-9-16;;;1;;;KTEL_Serron;;N.S.STATHMOS - FILYRO LYKEIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;64K;1;1864;;Revenue;;18645.87;ΦΙΛΥΡΟ ΠΑΙΔΙΚΟ ΧΩΡΙΟ ΛΥΚΕΙΟ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 64Κ;;;1;;;KTEL_Serron;;FILYRO PAIDIKO CHORIO LYKEIO - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;64K;0;2197;;Revenue;;18206.87;Ν.Σ. ΣΤΑΘΜΟΣ - ΦΙΛΥΡΟ ΠΑΙΔΙΚΟ ΧΩΡΙΟ ΛΥΚΕΙΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 29-9-16;;;1;;;KTEL_Serron;;N.S. STATHMOS - FILYRO PAIDIKO CHORIO LYKEIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;66;0;216;;Revenue;;8126.44;ΧΑΡΙΛΑΟΥ - ΘΕΡΜΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Serron;;CHARILAOY - THERMI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;66;0;216_1;;Revenue;;;ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ - ΘΕΡΜΗ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;1;53-27/06/2025;S_Depot;;METRO STATION N. ELVETIA - THERMI;2025-07-02;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;66;1;475;;Revenue;;8119.26;ΘΕΡΜΗ - ΧΑΡΙΛΑΟΥ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;KTEL_Serron;;THERMI - CHARILAOY;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;66;1;475_1;;Revenue;;;ΘΕΡΜΗ - ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;1;53-27/06/2025;S_Depot;;THERMI - METRO STATION N. ELVETIA;2025-07-02;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;67;1;215;;Revenue;;7996.95;ΤΡΙΑΔΙ - Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;TRIADI - A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;67;0;476;;Revenue;;7917.98;Α.Σ. ΙΚΕΑ - ΤΡΙΑΔΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - TRIADI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;67A;1;1867;;Revenue;;11950.93;ΤΡΙΑΔΙ - ΚΕΡΑΜΟΥΡΓΕΙΑ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 01-02-15;;;1;;;KTEL_Serron;;TRIADI - KERAMOYRGEIA - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;67B;1;929;;Revenue;;8810.31;Α.Σ. ΙΚΕΑ - ΤΡΙΑΔΙ - ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - TRIADI - DIETHNES PANEPISTIMIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;67B;1;930;;Revenue;;8872.73;ΤΡΙΑΔΙ - Α.Σ. ΙΚΕΑ - ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;TRIADI - A.S. IKEA - DIETHNES PANEPISTIMIO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;68A;0;1868;;Revenue;;9406.21;Α.Σ. ΙΚΕΑ - ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ - ΚΕΡΑΜΟΥΡΓΕΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - DIETHNES PANEPISTIMIO - KERAMOYRGEIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;68B;0;1869;;Revenue;;26462.51;Α.Σ. ΙΚΕΑ - ΟΑΕΔ - ΛΑΚΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - OAED - LAKKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;69A;0;345;;Revenue;;21165.84;ΙΚΕΑ - ΕΠΑΝΟΜΗ - ΠΑΡΑΛΙΑ ΕΠΑΝΟΜΗΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;IKEA - EPANOMI - PARALIA EPANOMIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;69A;1;346;;Revenue;;20838.09;ΠΑΡΑΛΙΑ ΕΠΑΝΟΜΗΣ - ΕΠΑΝΟΜΗ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;PARALIA EPANOMIS - EPANOMI - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;69B;0;347;;Revenue;;22687.83;ΙΚΕΑ-ΕΠΑΝΟΜΗ-ΠΑΛΙΟΥΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;IKEA-EPANOMI-PALIOYRA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;69B;1;348;;Revenue;;24270.07;ΠΑΛΙΟΥΡΑ - ΕΠΑΝΟΜΗ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;PALIOYRA - EPANOMI - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;69H;0;2565;;Revenue;;16590.97;Α.Σ. ΙΚΕΑ - ΕΠΑΝΟΜΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - EPANOMI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;69H;1;2566;;Revenue;;16626.6;Α.Σ. ΙΚΕΑ - ΕΠΑΝΟΜΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;A.S. IKEA - EPANOMI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;69K;1;406;;Revenue;;24577.37;ΠΑΡΑΛΙΑ - Ι.Ε.Κ. - ΕΠΑΝΟΜΗ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;PARALIA - I.E.K. - EPANOMI - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;69N;0;349;;Revenue;;29793.73;ΙΚΕΑ-ΕΠΑΝΟΜΗ-ΝΤΟΥΡΑΚΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;IKEA-EPANOMI-NTOYRAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;69N;1;350;;Revenue;;29453.35;ΝΤΟΥΡΑΚΙ - ΕΠΑΝΟΜΗ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;NTOYRAKI - EPANOMI - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;69P;0;404;;Revenue;;30420.58;ΙΚΕΑ - ΕΠΑΝΟΜΗ - Ι.Ε.Κ. - ΝΤΟΥΡΑΚΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;IKEA - EPANOMI - I.E.K. - NTOYRAKI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;69T;0;1117;;Revenue;;24975.34;ΙΚΕΑ - ΕΠΑΝΟΜΗ - Ι.Ε.Κ. - ΠΑΡΑΛΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;IKEA - EPANOMI - I.E.K. - PARALIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;70;1;2555;;Revenue;;34032.81;Ν.Σ. ΣΤΑΘΜΟΣ - ΕΠΑΝΟΜΗ - ΠΑΡΑΛΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 2023;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - EPANOMI - PARALIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;70;1;2556;;Revenue;;34083.5;ΠΑΡΑΛΙΑ - ΕΠΑΝΟΜΗ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2023;;;1;;;KTEL_Thessalonikis;;PARALIA - EPANOMI - N.S. STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;70A;1;2557;;Revenue;;35565.76;Ν.Σ. ΣΤΑΘΜΟΣ - ΕΠΑΝΟΜΗ - ΑΛΥΚΕΣ;;;;;;;;ΜΕΤΑΒΑΣΗ 2023;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - EPANOMI - ALYKES;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;70A;1;2558;;Revenue;;37403.47;ΑΛΥΚΕΣ - ΕΠΑΝΟΜΗ - Ν.Σ. ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2023;;;1;;;KTEL_Thessalonikis;;ALYKES - EPANOMI - N.S. STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;71;1;1996;;Revenue;;32850.43;Ν.ΜΗΧΑΝΙΩΝΑ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΝΗΓΥΡΗΣ;;;1;;;KTEL_Thessalonikis;;N.MICHANIONA - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;71;1;2559;;Revenue;;34678.45;Ν.Σ.ΣΤΑΘΜΟΣ-Ν.ΜΗΧΑΝΙΩΝΑ;;;;;;;;ΜΕΤΑΒΑΣΗ 2023;;;1;;;KTEL_Thessalonikis;;N.S.STATHMOS-N.MICHANIONA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;71;1;2560;;Revenue;;34619.49;Ν.ΜΗΧΑΝΙΩΝΑ - Ν.Σ.ΣΤΑΘΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2023;;;1;;;KTEL_Thessalonikis;;N.MICHANIONA - N.S.STATHMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;71A;1;1998;;Revenue;;37873.35;Ν.ΜΗΧΑΝΙΩΝΑ - Ν.Σ.ΣΤΑΘΜΟΣ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΝΗΓΥΡΗΣ;;;1;;;KTEL_Thessalonikis;;N.MICHANIONA - N.S.STATHMOS MESO AGGELOCHORIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;71A;1;2561;;Revenue;;39108.51;Ν.Σ. ΣΤΑΘΜΟΣ - Ν. ΜΗΧΑΝΙΩΝΑ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ 2023;;;1;;;KTEL_Thessalonikis;;N.S. STATHMOS - N. MICHANIONA MESO AGGELOCHORIOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;71A;1;2562;;Revenue;;39294.89;Ν.ΜΗΧΑΝΙΩΝΑ - Ν.Σ.ΣΤΑΘΜΟΣ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2023;;;1;;;KTEL_Thessalonikis;;N.MICHANIONA - N.S.STATHMOS MESO AGGELOCHORIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72;0;104;;Revenue;;21790.68;Α.Σ. ΙΚΕΑ-Ν. ΜΗΧΑΝΙΩΝΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;A.S. IKEA-N. MICHANIONA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;72;1;1271;;Revenue;;21869.57;Ν.ΜΗΧΑΝΙΩΝΑ Α.Σ. ΙΚΕΑ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;Finikas;;N.MICHANIONA A.S. IKEA-PARASKEYI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72;1;2000;;Revenue;;19921.75;Ν.ΜΗΧΑΝΙΩΝΑ Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΝΗΓΥΡΗΣ;;;1;;;Finikas;;N.MICHANIONA A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72;1;945;;Revenue;;21359.52;Ν.ΜΗΧΑΝΙΩΝΑ Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;N.MICHANIONA A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72A;1;1272;;Revenue;;26586.32;Ν.ΜΗΧΑΝΙΩΝΑ Α.Σ. ΙΚΕΑ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ-ΠΑΡΑΣΚΕΥΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΡΑΣΚΕΥΗΣ;;;1;;;Finikas;;N.MICHANIONA A.S. IKEA MESO AGGELOCHORIOY-PARASKEYI;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72A;1;2002;;Revenue;;25124.88;Ν.ΜΗΧΑΝΙΩΝΑ - Α.Σ. ΙΚΕΑ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΠΑΝΗΓΥΡΗΣ;;;1;;;Finikas;;N.MICHANIONA - A.S. IKEA MESO AGGELOCHORIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72A;0;341;;Revenue;;26528.98;Α.Σ. ΙΚΕΑ - Ν. ΜΗΧΑΝΙΩΝΑ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;A.S. IKEA - N. MICHANIONA MESO AGGELOCHORIOY;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;72A;1;946;;Revenue;;26100.61;Ν.ΜΗΧΑΝΙΩΝΑ - Α.Σ. ΙΚΕΑ ΜΕΣΩ ΑΓΓΕΛΟΧΩΡΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Finikas;;N.MICHANIONA - A.S. IKEA MESO AGGELOCHORIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;OASTH;Def;72B;0;1573;;Revenue;;27710.36;Α.Σ. ΙΚΕΑ - ΑΓΓΕΛΟΧΩΡΙ-ΜΗΧΑΝΙΩΝΑ ΚΕΝΤΡΟ ΥΓΕΙΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;A.S. IKEA - AGGELOCHORI-MICHANIONA KENTRO YGEIAS;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;72E;0;2311;;Revenue;;22943.31;Α.Σ. ΙΚΕΑ - ΜΗΧΑΝΙΩΝΑ ΚΕΝΤΡΟ ΥΓΕΙΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;Finikas;;A.S. IKEA - MICHANIONA KENTRO YGEIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;76;1;129;;Revenue;;20261.76;ΑΓΓΕΛΟΧΩΡΙ - Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;AGGELOCHORI - A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;76;0;130;;Revenue;;20293.64;Α.Σ. ΙΚΕΑ - ΑΓΓΕΛΟΧΩΡΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - AGGELOCHORI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;76A;1;353;;Revenue;;5880.59;Ν. ΜΗΧΑΝΙΩΝΑ - ΑΓΓΕΛΟΧΩΡΙ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;N. MICHANIONA - AGGELOCHORI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;76A;0;354;;Revenue;;5898.69;ΑΓΓΕΛΟΧΩΡΙ-Ν. ΜΗΧΑΝΙΩΝΑ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Serron;;AGGELOCHORI-N. MICHANIONA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;76B;0;609;;Revenue;;35699.6;Α.Σ. ΙΚΕΑ - ΑΓΓΕΛΟΧΩΡΙ - Τ.Ε.Λ - Ι.Ε.Κ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - AGGELOCHORI - T.E.L - I.E.K;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;76B;1;817;;Revenue;;35049.18;ΑΓΓΕΛΟΧΩΡΙ - Τ.Ε.Λ - Ι.Ε.Κ - Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;AGGELOCHORI - T.E.L - I.E.K - A.S. IKEA ;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;76S;0;2532;;Revenue;;15318.3;Α.Σ. ΙΚΕΑ - ΑΓΙΑ ΤΡΙΑΔΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA - AGIA TRIADA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;76S;1;2533;;Revenue;;15236.83;ΑΓΙΑ ΤΡΙΑΔΑ - Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;AGIA TRIADA - A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;77;1;120;;Revenue;;17046.03;ΕΠΑΝΟΜΗ - Ν. ΜΗΧΑΝΙΩΝΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;EPANOMI - N. MICHANIONA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;77;0;890;;Revenue;;17010.72;Ν. ΜΗΧΑΝΙΩΝΑ - ΕΠΑΝΟΜΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;N. MICHANIONA - EPANOMI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;77A;0;891;;Revenue;;19159.25;Ν. ΜΗΧΑΝΙΩΝΑ - ΕΠΑΝΟΜΗ - ΓΥΜΝΑΣΙΟ - ΛΥΚΕΙΟ - Ι.Ε.Κ - Τ.Ε.Ε.;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;N. MICHANIONA - EPANOMI - GYMNASIO - LYKEIO - I.E.K - T.E.E.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;77B;0;892;;Revenue;;18444.81;Ν. ΜΗΧΑΝΙΩΝΑ - ΕΠΑΝΟΜΗ - ΓΥΜΝΑΣΙΟ - ΛΥΚΕΙΟ - Ι.Ε.Κ - Τ.Ε.Ε.;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;N. MICHANIONA - EPANOMI - GYMNASIO - LYKEIO - I.E.K - T.E.E.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;77E;0;893;;Revenue;;19142.13;Ν. ΜΗΧΑΝΙΩΝΑ - ΕΠΑΝΟΜΗ - ΓΥΜΝΑΣΙΟ - ΛΥΚΕΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;N. MICHANIONA - EPANOMI - GYMNASIO - LYKEIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;77H;0;1743;;Revenue;;7109.73;ΕΠΑΝΟΜΗ-ΠΟΤΑΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;EPANOMI-POTAMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;77H;1;1744;;Revenue;;6181.88;ΠΟΤΑΜΟΣ - ΕΠΑΝΟΜΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;POTAMOS - EPANOMI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;77K;1;1610;;Revenue;;19099.32;ΕΠΑΝΟΜΗ - Ν. ΜΗΧΑΝΙΩΝΑ ΜΕΣΩ Ι.Ε.Κ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;EPANOMI - N. MICHANIONA MESO I.E.K.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;79;0;1845;;Revenue;;4780.7;Α.Σ. ΙΚΕΑ-ΑΕΡΟΔΡΟΜΙΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA-AERODROMIO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;79;1;1846;;Revenue;;3823.8;ΑΕΡΟΔΡΟΜΙΟ - Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;AERODROMIO - A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;79A;0;1836;;Revenue;;14574.73;Α.Σ. ΙΚΕΑ-ΑΕΡΟΔΡΟΜΙΟ-ΚΤΕΛ ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA-AERODROMIO-KTEL CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;79B;1;1837;;Revenue;;13753.09;ΚΤΕΛ ΧΑΛΚΙΔΙΚΗΣ-ΑΕΡΟΔΡΟΜΙΟ-Α.Σ.ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;KTEL CHALKIDIKIS-AERODROMIO-A.S.IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;79E;1;2575;;Revenue;;9940.4;ΑΕΡΟΔΡΟΜΙΟ-COSMOS-Α.Σ. ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Serron;;AERODROMIO-COSMOS-A.S. IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_S;Def;79H;0;6879;;Revenue;;;Α.Σ. ΙΚΕΑ - ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ - ΚΕΡΑΜΟΥΡΓΕΙΑ - ΑΕΡΟΔΡΟΜΙΟ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;;S_Depot;;A.S. IKEA - DIETHNES PANEPISTIMIO - KERAMOURGEIA - AERODROMIO;2025-04-11;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;79K;0;2550;;Revenue;;16924.35;Α.Σ. ΙΚΕΑ-ΑΕΡΟΔΡΟΜΙΟ-COSMOS-Κ.Τ.Ε.Λ ΧΑΛΚΙΔΙΚΗΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Serron;;A.S. IKEA-AERODROMIO-COSMOS-K.T.E.L CHALKIDIKIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;79X;0;2723;;Revenue;;10011.24;ΝΕΑ ΕΛΒΕΤΙΑ - Α.Σ.ΙΚΕΑ;;;0;0;1;;;ΝΕΑ ΜΕΤΑΒΑΣΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;NEA ELVETIA - A.S.IKEA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_S;Def;79X;1;2724;;Revenue;;10334.31;Α.Σ.ΙΚΕΑ - ΝΕΑ ΕΛΒΕΤΙΑ;;;;;;;;ΝΕΑ ΕΠΙΣΤΡΟΦΗ-ΜΕΤΡΟ;;;1;;;KTEL_Serron;;A.S.IKEA - NEA ELVETIA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80;1;1800;;Revenue;;26503.06;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ-ΣΑΒΒΑΤΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΛΑΙΚΗ ΣΑΒΒΑΤΟΥ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA-SAVVATO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;80;1;1801;;Revenue;;28480.64;ΜΑΛΓΑΡΑ - Κ.Τ.Ε.Λ.-ΣΑΒΒΑΤΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΛΑΙΚΗ ΣΑΒΒΑΤΟΥ;;;1;;;KTEL_Thessalonikis;;MALGARA - K.T.E.L.-SAVVATO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80;1;219;;Revenue;;27933.09;ΜΑΛΓΑΡΑ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80;0;301;;Revenue;;26822.58;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;80A;1;1802;;Revenue;;34170.13;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ ΜΕΣΩ ΑΝΑΤΟΛΙΚΟΥ-ΣΑΒΒΑΤΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΛΑΙΚΗ ΣΑΒΒΑΤΟΥ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA MESO ANATOLIKOY-SAVVATO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;80A;0;343;;Revenue;;34493.39;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ ΜΕΣΩ ΑΝΑΤΟΛΙΚΟΥ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA MESO ANATOLIKOY;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;80B;1;1803;;Revenue;;35985.87;ΜΑΛΓΑΡΑ - Κ.Τ.Ε.Λ ΜΕΣΩ ΑΝΑΤΟΛΙΚΟΥ-ΣΑΒΒΑΤΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΛΑΙΚΗ ΣΑΒΒΑΤΟΥ;;;1;;;KTEL_Thessalonikis;;MALGARA - K.T.E.L MESO ANATOLIKOY-SAVVATO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80B;1;344;;Revenue;;35422.05;ΜΑΛΓΑΡΑ - Κ.Τ.Ε.Λ ΜΕΣΩ ΑΝΑΤΟΛΙΚΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - K.T.E.L MESO ANATOLIKOY;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80E;1;1804;;Revenue;;29735.71;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ ΜΕΣΩ ΙΩΝΙΑΣ-ΣΑΒΒΑΤΟ;;;;;;;;ΜΕΤΑΒΑΣΗ ΛΑΙΚΗ ΣΑΒΒΑΤΟΥ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA MESO IONIAS-SAVVATO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;80E;1;1805;;Revenue;;31429.27;ΜΑΛΓΑΡΑ - Κ.Τ.Ε.Λ. ΜΕΣΩ ΙΩΝΙΑΣ-ΣΑΒΒΑΤΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΛΑΙΚΗ ΣΑΒΒΑΤΟΥ;;;1;;;KTEL_Thessalonikis;;MALGARA - K.T.E.L. MESO IONIAS-SAVVATO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80E;0;639;;Revenue;;30067.13;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ ΜΕΣΩ ΙΩΝΙΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA MESO IONIAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;80E;1;640;;Revenue;;30878.96;ΜΑΛΓΑΡΑ - Κ.Τ.Ε.Λ. ΜΕΣΩ ΙΩΝΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - K.T.E.L. MESO IONIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;80Z;0;2187;;Revenue;;37734.77;Κ.Τ.Ε.Λ. - ΜΑΛΓΑΡΑ ΙΩΝΙΑ-ΑΝΑΤΟΛΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MALGARA IONIA-ANATOLIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81;0;1054;;Revenue;;35635.78;Κ.Τ.Ε.Λ. - ΚΟΥΦΑΛΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - KOYFALIA ;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81;1;1275;;Revenue;;35922.54;Κ.Τ.Ε.Λ. - ΚΟΥΦΑΛΙΑ -ΤΡΙΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - KOYFALIA -TRITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81;1;1277;;Revenue;;35791.33;ΚΟΥΦΑΛΙΑ - Κ.Τ.Ε.Λ.-ΤΡΙΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - K.T.E.L.-TRITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;81;1;485;;Revenue;;35658.31;ΚΟΥΦΑΛΙΑ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;81A;1;1278;;Revenue;;37494.14;Κ.Τ.Ε.Λ. - ΑΓ. ΑΘΑΝΑΣΙΟΣ - ΚΟΥΦΑΛΙΑ-ΤΡΙΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - AG. ATHANASIOS - KOYFALIA-TRITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81A;0;359;;Revenue;;37195.37;Κ.Τ.Ε.Λ. - ΑΓ. ΑΘΑΝΑΣΙΟΣ - ΚΟΥΦΑΛΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - AG. ATHANASIOS - KOYFALIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81B;1;1276;;Revenue;;37333.86;ΚΟΥΦΑΛΙΑ - ΑΓ. ΑΘΑΝΑΣΙΟΣ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - AG. ATHANASIOS - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;81B;1;519;;Revenue;;37476.62;ΚΟΥΦΑΛΙΑ - ΑΓ. ΑΘΑΝΑΣΙΟΣ - Κ.Τ.Ε.Λ.-ΤΡΙΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - AG. ATHANASIOS - K.T.E.L.-TRITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;81E;1;1281;;Revenue;;39750;ΕΛΕΟΥΣΑ - ΚΟΥΦΑΛΙΑ-ΤΡΙΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;ELEOYSA - KOYFALIA-TRITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81E;0;418;;Revenue;;39457.01;ΕΛΕΟΥΣΑ - ΚΟΥΦΑΛΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;ELEOYSA - KOYFALIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;81K;1;1292;;Revenue;;38576.25;ΒΑΛΤΟΧΩΡΙ - Κ.Τ.Ε.Λ.-ΤΡΙΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;VALTOCHORI - K.T.E.L.-TRITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;81K;1;419;;Revenue;;38448.59;ΒΑΛΤΟΧΩΡΙ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;VALTOCHORI - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;82A;0;361;;Revenue;;26746.35;ΝΕΟΧΩΡΟΥΔΑ - ΠΕΝΤΑΛΟΦΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;NEOCHOROYDA - PENTALOFOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;82B;0;362;;Revenue;;26556.09;ΠΕΝΤΑΛΟΦΟΣ - ΝΕΟΧΩΡΟΥΔΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;PENTALOFOS - NEOCHOROYDA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;82E;1;2444;;Revenue;;36627.7;Κ.Τ.Ε.Λ. - ΜΟΝΟΛΟΦΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ 01/08/21;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MONOLOFOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;82K;1;2445;;Revenue;;36723.1;ΜΟΝΟΛΟΦΟΣ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ 01/08/21;;;1;;;KTEL_Thessalonikis;;MONOLOFOS - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;82M;1;2446;;Revenue;;39140.28;Κ.Τ.Ε.Λ. - ΜΟΝΟΛΟΦΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ 01/08/21;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - MONOLOFOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;82N;1;2447;;Revenue;;39247.62;ΜΟΝΟΛΟΦΟΣ - Κ.Τ.Ε.Λ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 01/08/21;;;1;;;KTEL_Thessalonikis;;MONOLOFOS - K.T.E.L;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83;1;2343;;Revenue;;25337.24;ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ (ΕΞΠΡΕΣ);;;;;;;;ΜΕΤΑΒΑΣΗ 27-03-2019;;;1;;;KTEL_Thessalonikis;;LAGKADAS - THES/NIKI (EKSPRES);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;83;1;2344;;Revenue;;23937.29;ΘΕΣ/ΝΙΚΗ - ΛΑΓΚΑΔΑΣ (ΕΞΠΡΕΣ);;;;;;;;ΕΠΙΣΤΡΟΦΗ 27-03-2019;;;1;;;KTEL_Thessalonikis;;THES/NIKI - LAGKADAS (EKSPRES);;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83A;1;2258;;Revenue;;36568.71;ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ (ΑΝΑΛΗΨΗ - ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ);;;;;;;;ΜΕΤΑΒΑΣΗ 2-2018;;;1;;;KTEL_Thessalonikis;;LAGKADAS - THES/NIKI (ANALIPSI - LAGKADAS - THES/NIKI);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;83B;1;1874;;Revenue;;25953.67;ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ (ΛΑΓΚΑΔΑΣ - ΛΑΓΥΝΑ - ΘΕΣ/ΝΙΚΗ);;;;;;;;ΜΕΤΑΒΑΣΗ 04-15;;;1;;;KTEL_Thessalonikis;;LAGKADAS - THES/NIKI (LAGKADAS - LAGYNA - THES/NIKI);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;83B;1;1875;;Revenue;;24426.28;ΘΕΣ/ΝΙΚΗ - ΛΑΓΚΑΔΑΣ (ΛΑΓΚΑΔΑΣ - ΛΑΓΥΝΑ - ΘΕΣ/ΝΙΚΗ);;;;;;;;ΕΠΙΣΤΡΟΦΗ 04-15;;;1;;;KTEL_Thessalonikis;;THES/NIKI - LAGKADAS (LAGKADAS - LAGYNA - THES/NIKI);;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83M;1;2259;;Revenue;;27805.52;ΘΕΣ/ΝΙΚΗ - ΛΑΓΚΑΔΑΣ ΜΕΣΩ ΛΟΥΤΡΩΝ ΛΑΓΚΑΔΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2-2018;;;1;;;KTEL_Thessalonikis;;THES/NIKI - LAGKADAS MESO LOYTRON LAGKADA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83N;1;1045;;Revenue;;20906.23;ΛΑΓΚΑΔΑΣ - ΣΤΑΥΡΟΥΠΟΛΗ (ΟΙΚΙΣΜΟΣ ΠΑΠΑΚΥΡΙΑΖΗ ΜΕΣΩ ΑΝΩ ΛΑΓΥΝΩΝ);;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - STAYROYPOLI (OIKISMOS PAPAKYRIAZI MESO ANO LAGYNON);;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83N;0;462;;Revenue;;19170.39;ΣΤΑΥΡΟΥΠΟΛΗ - ΛΑΓΚΑΔΑΣ (ΟΙΚΙΣΜΟΣ ΠΑΠΑΚΥΡΙΑΖΗ ΜΕΣΩ ΑΝΩ ΛΑΓΥΝΩΝ);;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;STAYROYPOLI - LAGKADAS (OIKISMOS PAPAKYRIAZI MESO ANO LAGYNON);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;83T;1;2255;;Revenue;;26319.36;ΘΕΣ/ΝΙΚΗ - ΛΑΓΚΑΔΑΣ  ΜΕΣΩ Ι.Ε.Κ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2-2018;;;1;;;KTEL_Thessalonikis;;THES/NIKI - LAGKADAS  MESO I.E.K.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83T;0;2255_1;;Revenue;;;ΑΡΙΣΤΟΤΕΛΟΥΣ - ΛΑΓΚΑΔΑΣ ΜΕΣΩ Ι.Ε.Κ.;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;test;KTEL_Thessalonikis;2025-12-31;test;2025-03-17;test
+2590;KTEL_T;Def;83T;1;2256;;Revenue;;28026.6;ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ ΜΕΣΩ Ι.Ε.Κ.;;;;;;;;ΜΕΤΑΒΑΣΗ 2-2018;;;1;;;KTEL_Thessalonikis;;LAGKADAS - THES/NIKI MESO I.E.K.;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;83T;1;2257;;Revenue;;26680.14;ΘΕΣ/ΝΙΚΗ - ΛΑΓΚΑΔΑΣ  ΜΕΣΩ Ι.Ε.Κ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ 2-2018 ΠΡΩΙΝΑ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - LAGKADAS  MESO I.E.K.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;83X;1;2260;;Revenue;;27363.59;ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ (ΧΡΥΣΑΥΓΗ - ΛΑΓΚΑΔΑΣ - ΘΕΣ/ΝΙΚΗ);;;;;;;;ΜΕΤΑΒΑΣΗ 2-2018;;;1;;;KTEL_Thessalonikis;;LAGKADAS - THES/NIKI (CHRYSAYGI - LAGKADAS - THES/NIKI);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;84A;1;2660;;Revenue;;21125.33;ΛΗΤΗ - ΜΕΛΙΣΣΟΧΩΡΙ - ΔΡΥΜΟΣ - ΛΗΤΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΑΠΡΙΛΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;LITI - MELISSOCHORI - DRYMOS - LITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;84A;1;2661;;Revenue;;22571.96;ΛΗΤΗ - ΔΡΥΜΟΣ - ΜΕΛΙΣΣΟΧΩΡΙ - ΛΗΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΑΠΡΙΛΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;LITI - DRYMOS - MELISSOCHORI - LITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;84A;1;352;;Revenue;;17204.71;ΛΗΤΗ - ΔΡΥΜΟΣ - ΜΕΛΙΣΣΟΧΩΡΙ - ΛΗΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;KTEL_Thessalonikis;;LITI - DRYMOS - MELISSOCHORI - LITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;84A;0;432;;Revenue;;15538.23;ΛΗΤΗ - ΜΕΛΙΣΣΟΧΩΡΙ - ΔΡΥΜΟΣ - ΛΗΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;LITI - MELISSOCHORI - DRYMOS - LITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;84B;1;2662;;Revenue;;23931.98;ΛΗΤΗ - ΔΡΥΜΟΣ - ΜΕΛΙΣΣΟΧΩΡΙ - ΛΗΤΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ ΑΠΡΙΛΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;LITI - DRYMOS - MELISSOCHORI - LITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;84B;1;2663;;Revenue;;19767.57;ΛΗΤΗ - ΜΕΛΙΣΣΟΧΩΡΙ - ΔΡΥΜΟΣ - ΛΗΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΑΠΡΙΛΙΟΣ 2024;;;1;;;KTEL_Thessalonikis;;LITI - MELISSOCHORI - DRYMOS - LITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;84B;1;351;;Revenue;;14347.05;ΛΗΤΗ - ΜΕΛΙΣΣΟΧΩΡΙ - ΔΡΥΜΟΣ - ΛΗΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;0;;;KTEL_Thessalonikis;;LITI - MELISSOCHORI - DRYMOS - LITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;84B;0;433;;Revenue;;18489.36;ΛΗΤΗ - ΔΡΥΜΟΣ - ΜΕΛΙΣΣΟΧΩΡΙ - ΛΗΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;0;;;KTEL_Thessalonikis;;LITI - DRYMOS - MELISSOCHORI - LITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85;0;314;;Revenue;;51591.38;ΘΕΣ/ΝΙΚΗ-ΕΥΑΓΓΕΛΙΣΤΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI-EYAGGELISTRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85;1;315;;Revenue;;50526.01;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;EYAGGELISTRIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85A;0;1244;;Revenue;;27085.14;ΘΕΣ/ΝΙΚΗ - ΚΡΙΘΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - KRITHIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85A;1;1245;;Revenue;;25023.25;ΚΡΙΘΙΑ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KRITHIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85B;0;1250;;Revenue;;53555.69;ΘΕΣ/ΝΙΚΗ - ΚΡΙΘΙΑ - ΛΕΥΚΟΧΩΡΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - KRITHIA - LEYKOCHORI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85B;1;1251;;Revenue;;44888.18;ΛΕΥΚΟΧΩΡΙ - ΚΡΙΘΙΑ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;LEYKOCHORI - KRITHIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85H;0;1410;;Revenue;;42383.75;ΛΑΓΚΑΔΑΣ-ΕΥΑΓΓΕΛΙΣΤΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS-EYAGGELISTRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85H;1;1412;;Revenue;;42189.68;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;EYAGGELISTRIA - LAGKADAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85K;1;1406;;Revenue;;56490.1;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΚΥΔΩΝΙΑ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;EYAGGELISTRIA - KYDONIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85K;0;1579;;Revenue;;57803.29;ΘΕΣ/ΝΙΚΗ - ΚΥΔΩΝΙΑ - ΕΥΑΓΓΕΛΙΣΤΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - KYDONIA - EYAGGELISTRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85M;0;1246;;Revenue;;31278.15;ΘΕΣ/ΝΙΚΗ-ΕΞΑΜΙΛΙ-ΚΡΙΘΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI-EKSAMILI-KRITHIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85M;1;1247;;Revenue;;29451.35;ΚΡΙΘΙΑ - ΕΞΑΜΙΛΙ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KRITHIA - EKSAMILI - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85N;0;381;;Revenue;;61962.64;ΘΕΣ/ΝΙΚΗ - ΝΙΚΟΠΟΛΗ - ΕΥΑΓΓΕΛΙΣΤΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - NIKOPOLI - EYAGGELISTRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85N;1;450;;Revenue;;60795.39;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΝΙΚΟΠΟΛΗ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;EYAGGELISTRIA - NIKOPOLI - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85T;0;1253;;Revenue;;58846.61;ΘΕΣ/ΝΙΚΗ - ΚΡΙΘΙΑ - ΕΞΑΜΙΛΙ - ΛΕΥΚΟΧΩΡΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - KRITHIA - EKSAMILI - LEYKOCHORI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85T;1;1254;;Revenue;;56603.48;ΛΕΥΚΟΧΩΡΙ - ΕΞΑΜΙΛΙ - ΚΡΙΘΙΑ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;LEYKOCHORI - EKSAMILI - KRITHIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85X;1;1414;;Revenue;;50202.05;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΜΑΥΡΟΡΑΧΗ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;EYAGGELISTRIA - MAYRORACHI - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85X;0;2493;;Revenue;;60327.33;ΘΕΣ/ΝΙΚΗ - ΜΑΥΡΟΡΑΧΗ - ΕΥΑΓΓΕΛΙΣΤΡΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI - MAYRORACHI - EYAGGELISTRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;85Z;1;1821;;Revenue;;65257.54;ΕΥΑΓΓΕΛΙΣΤΡΙΑ - ΚΡΙΘΙΑ - ΘΕΣ/ΝΙΚΗ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;EYAGGELISTRIA - KRITHIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;85Z;1;1860;;Revenue;;66599.03;ΘΕΣ/ΝΙΚΗ-ΚΡΙΘΙΑ-ΕΥΑΓΓΕΛΙΣΤΡΙΑ;;;;;;;;85Z ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;THES/NIKI-KRITHIA-EYAGGELISTRIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86;1;412;;Revenue;;34936.59;ΛΑΓΚΑΔΙΚΙΑ - ΘΕΣ/ΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;LAGKADIKIA - THES/NIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;86A;1;1519;;Revenue;;34231.2;ΓΕΡΑΚΑΡΟΥ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 01-06-2012;;;1;;;KTEL_Thessalonikis;;GERAKAROY - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86B;0;769;;Revenue;;34089.59;ΒΑΣΙΛΟΥΔΙ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;VASILOYDI - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86E;0;770;;Revenue;;34215.14;ΛΑΓΥΝΑ - ΒΑΣΙΛΟΥΔΙ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGYNA - VASILOYDI - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86F;1;1518;;Revenue;;34422.64;ΚΑΒΑΛΑΡΙ - ΓΕΡΑΚΑΡΟΥ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 1-6-12;;;1;;;KTEL_Thessalonikis;;KAVALARI - GERAKAROY - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86H;1;1523;;Revenue;;35187.31;ΚΑΒΑΛΑΡΙ - ΒΑΣΙΛΟΥΔΙ - ΓΕΡΑΚΑΡΟΥ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 01-06-201;;;1;;;KTEL_Thessalonikis;;KAVALARI - VASILOYDI - GERAKAROY - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86K;1;1520;;Revenue;;34539.94;ΛΑΓΥΝΑ - ΓΕΡΑΚΑΡΟΥ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 01-06-12;;;1;;;KTEL_Thessalonikis;;LAGYNA - GERAKAROY - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86L;0;777;;Revenue;;34296.23;ΚΑΒΑΛΑΡΙ - ΒΑΣΙΛΟΥΔΙ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KAVALARI - VASILOYDI - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86M;1;1522;;Revenue;;45288.58;ΑΡΔΑΜΕΡΙ - ΓΕΡΑΚΑΡΟΥ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 1-6-12;;;1;;;KTEL_Thessalonikis;;ARDAMERI - GERAKAROY - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86N;1;1524;;Revenue;;45418.88;ΛΑΓΥΝΑ - ΑΡΔΑΜΕΡΙ - ΓΕΡΑΚΑΡΟΥ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΕΚΤΡΟΠΗ 01-06-12;;;1;;;KTEL_Thessalonikis;;LAGYNA - ARDAMERI - GERAKAROY - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86R;0;773;;Revenue;;44344.25;ΑΡΔΑΜΕΡΙ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;ARDAMERI - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86T;1;815;;Revenue;;35409.51;ΛΑΓΚΑΔΙΚΙΑ-ΛΑΓΥΝΑ-ΘΕΣΣΑΛΟΝΙΚΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;LAGKADIKIA-LAGYNA-THESSALONIKI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;86X;0;1123;;Revenue;;5969.34;ΛΑΓΚΑΔΙΚΙΑ - ΒΑΣΙΛΟΥΔΙ - ΤΟΠΙΚΟ ΣΧΟΛΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADIKIA - VASILOYDI - TOPIKO SCHOLIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86X;1;1525;;Revenue;;6716.92;ΒΑΣΙΛΟΥΔΙ - ΛΑΓΚΑΔΙΚΙΑ - ΤΟΠΙΚΟ ΣΧΟΛΙΚΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΕΚΤΡΟΠΗ ΕΠΙΣΤ 01-06-12;;;1;;;KTEL_Thessalonikis;;VASILOYDI - LAGKADIKIA - TOPIKO SCHOLIKO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;86Y;1;779;;Revenue;;45216.15;ΚΑΒΑΛΑΡΙ - ΒΑΣΙΛΟΥΔΙ - ΑΡΔΑΜΕΡΙ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;MΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KAVALARI - VASILOYDI - ARDAMERI - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;86Z;0;778;;Revenue;;44540.38;ΛΑΓΥΝΑ - ΑΡΔΑΜΕΡΙ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGYNA - ARDAMERI - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87A;0;388;;Revenue;;21160.88;ΡΥΣΙΟ - ΒΑΣΙΛΙΚΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;RYSIO - VASILIKA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87A;1;536;;Revenue;;21817.63;ΒΑΣΙΛΙΚΑ - ΡΥΣΙΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - RYSIO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87B;0;1492;;Revenue;;52913.39;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΑΙΔΕΣΤΟΣ - ΠΕΡΙΣΤΕΡΑ - ΛΙΒΑΔΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RAIDESTOS - PERISTERA - LIVADI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87E;0;440;;Revenue;;16638.47;ΡΑΙΔΕΣΤΟΣ - ΒΑΣΙΛΙΚΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;RAIDESTOS - VASILIKA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87E;1;539;;Revenue;;16746.16;ΒΑΣΙΛΙΚΑ - ΡΑΙΔΕΣΤΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - RAIDESTOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87F;1;553;;Revenue;;18960.5;ΒΑΣΙΛΙΚΑ - ΦΙΛΟΘΕΗ - ΡΑΙΔΕΣΤΟΣ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - FILOTHEI - RAIDESTOS - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87F;0;559;;Revenue;;19178.11;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΑΙΔΕΣΤΟΣ - ΦΙΛΟΘΕΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RAIDESTOS - FILOTHEI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87G;0;548;;Revenue;;17914.16;ΒΑΣΙΛΙΚΑ - ΑΓ. ΑΝΤΩΝΗΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - AG. ANTONIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87H;0;547;;Revenue;;23495.88;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΑΙΔΕΣΤΟΣ - ΦΙΛΟΘΕΗ - ΛΑΚΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RAIDESTOS - FILOTHEI - LAKKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87H;1;556;;Revenue;;23365.89;ΒΑΣΙΛΙΚΑ - ΛΑΚΚΙΑ - ΦΙΛΟΘΕΗ - ΡΑΙΔΕΣΤΟΣ- ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - LAKKIA - FILOTHEI - RAIDESTOS- IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87L;0;550;;Revenue;;20952.75;Α.Σ. Ι.Κ.Ε.Α. - ΒΑΣΙΛΙΚΑ - ΡΑΙΔΕΣΤΟΣ - ΛΑΚΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;A.S. I.K.E.A. - VASILIKA - RAIDESTOS - LAKKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87L;1;551;;Revenue;;20896.08;ΒΑΣΙΛΙΚΑ - ΛΑΚΙΑ - ΡΑΙΔΕΣΤΟΣ - Α.Σ. Ι.Κ.Ε.Α;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - LAKIA - RAIDESTOS - A.S. I.K.E.A;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87M;0;1489;;Revenue;;40925.7;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΥΣΙΟ - ΑΓ.ΑΝΤΩΝΗΣ - ΜΟΝΟΠΗΓΑΔΟ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RYSIO - AG.ANTONIS - MONOPIGADO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87M;1;1496;;Revenue;;41565.87;ΒΑΣΙΛΙΚΑ - ΜΟΝΟΠΗΓΑΔΟ - ΑΓ.ΑΝΤΩΝΗΣ - ΡΥΣΙΟ - ΙΚΕΑ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - MONOPIGADO - AG.ANTONIS - RYSIO - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87M;1;1496_1;;Revenue;;;ΜΟΝΟΠΗΓΑΔΟ - ΑΓ.ΑΝΤΩΝΗΣ - ΡΥΣΙΟ - ΙΚΕΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;Halkidikis;;MONOPIGADO - AG.ANTONIS - RYSIO - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87N;1;1495;;Revenue;;30839.65;ΒΑΣΙΛΙΚΑ - ΑΓ.ΑΝΤΩΝΗΣ - ΡΥΣΙΟ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - AG.ANTONIS - RYSIO - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87N;0;1497;;Revenue;;30100.93;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΥΣΙΟ - ΑΓ. ΑΝΤΩΝΗΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RYSIO - AG. ANTONIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87P;0;543;;Revenue;;37198.2;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΑΙΔΕΣΤΟΣ - ΠΕΡΙΣΤΕΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RAIDESTOS - PERISTERA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87Q;1;1220;;Revenue;;43522.23;ΒΑΣΙΛΙΚΑ - ΡΥΣΙΟ - ΤΑΓΑΡΑΔΕΣ - ΜΟΝΟΠΗΓΑΔΟ - ΑΓ.ΑΝΤΩΝΗΣ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 87Σ 20-11-17;;;1;;;KTEL_Halkidikis;;VASILIKA - RYSIO - TAGARADES - MONOPIGADO - AG.ANTONIS - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87Q;1;1220_1;;Revenue;;;ΜΟΝΟΠΗΓΑΔΟ - ΙΚΕΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;halkidikis;;MONOPIGADO - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87R;1;544;;Revenue;;23096.66;ΒΑΣΙΛΙΚΑ - ΤΑΓΑΡΑΔΕΣ - ΡΥΣΙΟ - ΙΚΕΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - TAGARADES - RYSIO - IKEA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87R;0;545;;Revenue;;22393.2;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΥΣΙΟ - ΤΑΓΑΡΑΔΕΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RYSIO - TAGARADES;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87T;0;555;;Revenue;;31245.07;ΙΚΕΑ - ΒΑΣΙΛΙΚΑ - ΡΥΣΙΟ - ΤΑΓΑΡΑΔΕΣ - ΑΓ. ΑΝΤΩΝΗΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - VASILIKA - RYSIO - TAGARADES - AG. ANTONIS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87X;1;538;;Revenue;;45198.82;ΒΑΣΙΛΙΚΑ - ΑΓ. ΑΝΤΩΝΗΣ - ΜΟΝΟΠΗΓΑΔΟ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - AG. ANTONIS - MONOPIGADO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;87X;0;5381;;Revenue;;;ΜΟΝΟΠΗΓΑΔΟ - ΑΓ. ΑΝΤΩΝΙΟΣ - ΒΑΣΙΛΙΚΑ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;;Halkidikis;;MONOPIGADO - AG. ANTONIOS - VASILIKA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;87Y;0;36089;;Revenue;;;ΚΟΙΝΟΤΗΤΑ ΝΕΑΣ ΡΑΙΔΕΣΤΟΥ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;;H_Depot;;KOINOTITA NEAS RAIDESTOU;;36089
+2590;KTEL_H;Def;87Z;0;557;;Revenue;;42581.1;ΒΑΣΙΛΙΚΑ - ΠΕΡΙΣΤΕΡΑ - ΛΙΒΑΔΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;VASILIKA - PERISTERA - LIVADI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88;1;240;;Revenue;;27161.01;ΜΕΣΗΜΕΡΙ - ΙΚΕΑ ΜΕΣΩ ΧΥΤΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;MESIMERI - IKEA MESO CHYTA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;88;0;241;;Revenue;;26432.79;ΙΚΕΑ-ΜΕΣΗΜΕΡΙ ΜΕΣΩ ΧΥΤΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA-MESIMERI MESO CHYTA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88A;1;2382;;Revenue;;28076.71;ΙΚΕΑ-ΚΑΡΔΙΑ-ΤΡΙΛΟΦΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ ΝΕΑ (21-07-20) 08-07-21;;;1;;;KTEL_Halkidikis;;IKEA-KARDIA-TRILOFOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88B;1;2383;;Revenue;;28771.76;ΙΚΕΑ-ΤΡΙΛΟΦΟΣ-ΚΑΡΔΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ ΝΕΑ (21-07-20) 08-07-21;;;1;;;KTEL_Halkidikis;;IKEA-TRILOFOS-KARDIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88E;0;409;;Revenue;;35713.27;ΙΚΕΑ - ΜΕΣΗΜΕΡΙ - ΕΠΑΝΟΜΗ ΜΕΣΩ ΧΥΤΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - MESIMERI - EPANOMI MESO CHYTA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88E;1;410;;Revenue;;36841.48;ΕΠΑΝΟΜΗ - ΜΕΣΗΜΕΡΙ - ΙΚΕΑ ΜΕΣΩ ΧΥΤΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;EPANOMI - MESIMERI - IKEA MESO CHYTA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;88H;0;617;;Revenue;;37028.4;ΙΚΕΑ - ΜΕΣΗΜΕΡΙ - ΕΠΑΝΟΜΗ ΑΠΟ ΔΥΤ. ΠΑΡΑΠΛΕΥΡΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - MESIMERI - EPANOMI APO DYT. PARAPLEYRI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88K;0;615;;Revenue;;27590.25;ΙΚΕΑ - ΜΕΣΗΜΕΡΙ ΑΠΟ ΔΥΤ. ΠΑΡΑΠΛΕΥΡΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - MESIMERI APO DYT. PARAPLEYRI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88K;1;616;;Revenue;;28968.67;ΜΕΣΗΜΕΡΙ - ΙΚΕΑ ΑΠΟ ΔΥΤ. ΠΑΡΑΠΛΕΥΡΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;MESIMERI - IKEA APO DYT. PARAPLEYRI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;88M;0;619;;Revenue;;32143.2;ΙΚΕΑ - ΜΕΣΗΜΕΡΙ ΑΠΟ ΛΑΚΩΜΑ - ΧΥΤΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - MESIMERI APO LAKOMA - CHYTA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_H;Def;88M;1;620;;Revenue;;32864.66;ΜΕΣΗΜΕΡΙ - ΙΚΕΑ ΑΠΟ ΛΑΚΩΜΑ - ΧΥΤΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Halkidikis;;MESIMERI - IKEA APO LAKOMA - CHYTA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_H;Def;88N;0;621;;Revenue;;33324.15;ΙΚΕΑ - ΜΕΣΗΜΕΡΙ ΑΠΟ ΛΑΚΩΜΑ - ΔΥΤ. ΠΑΡΑΠΛΕΥΡΗ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Halkidikis;;IKEA - MESIMERI APO LAKOMA - DYT. PARAPLEYRI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;89A;0;394;;Revenue;;25901.22;Κ.Τ.Ε.Λ. - ΞΗΡΟΧΩΡΙ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - KSIROCHORI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;89A;1;395;;Revenue;;26046.1;ΞΗΡΟΧΩΡΙ - Κ.Τ.Ε.Λ.;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KSIROCHORI - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;89B;1;2456;;Revenue;;45022.99;Κ.Τ.Ε.Λ. - ΑΚΡΟΠΟΤΑΜΟΣ-ΣΧΟΛΙΚΟ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ 07:30 ΣΧΟΛΙΚΟ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - AKROPOTAMOS-SCHOLIKO ;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;89B;0;812;;Revenue;;43444.66;Κ.Τ.Ε.Λ. - ΑΚΡΟΠΟΤΑΜΟΣ;;;0;0;1;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;K.T.E.L. - AKROPOTAMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;89E;1;2457;;Revenue;;44439.65;ΑΚΡΟΠΟΤΑΜΟΣ - Κ.Τ.Ε.Λ.-ΣΧΟΛΙΚΟ;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ 13:07 ΣΧΟΛΙΚΟ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - K.T.E.L.-SCHOLIKO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;89E;1;938;;Revenue;;42856.28;ΑΚΡΟΠΟΤΑΜΟΣ - Κ.Τ.Ε.Λ.;;;0;0;1;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - K.T.E.L.;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;89K;1;2458;;Revenue;;45723.33;Δ/ΣΗ ΑΓΙΟΝΕΡΙΟΥ - ΑΚΡΟΠΟΤΑΜΟΣ-ΣΧΟΛΙΚΟ;;;;;;;;ΜΕΤΑΒΑΣΗ 13:20 ΣΧΟΛΙΚΟ;;;1;;;KTEL_Thessalonikis;;D/SI AGIONERIOY - AKROPOTAMOS-SCHOLIKO;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;89K;0;785;;Revenue;;44143.48;Δ/ΣΗ ΑΓΙΟΝΕΡΙΟΥ - ΑΚΡΟΠΟΤΑΜΟΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;D/SI AGIONERIOY - AKROPOTAMOS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;89N;1;1691;;Revenue;;43695.52;ΑΚΡΟΠΟΤΑΜΟΣ - Δ/ΣΗ ΑΓΙΟΝΕΡΙΟΥ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - D/SI AGIONERIOY;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;89N;1;2455;;Revenue;;45274.08;ΑΚΡΟΠΟΤΑΜΟΣ - Δ/ΣΗ ΑΓΙΟΝΕΡΙΟΥ-ΣΧΟΛΙΚΟ;;;;;;;;ΕΠΙΣΤΡΟΦΗ 7:50 ΣΧΟΛΙΚΟ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - D/SI AGIONERIOY-SCHOLIKO;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90;1;1815;;Revenue;;31797.62;ΜΑΛΓΑΡΑ - ΚΟΥΦΑΛΙΑ-ΤΡΙΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;MALGARA - KOYFALIA-TRITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90;1;1816;;Revenue;;30963.78;ΚΟΥΦΑΛΙΑ - ΜΑΛΓΑΡΑ-ΤΡΙΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - MALGARA-TRITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90;0;220;;Revenue;;30819.72;ΚΟΥΦΑΛΙΑ - ΜΑΛΓΑΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - MALGARA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90;1;221;;Revenue;;31504.99;ΜΑΛΓΑΡΑ - ΚΟΥΦΑΛΙΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - KOYFALIA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90A;0;390;;Revenue;;34299.69;ΛΟΥΔΙΑΣ - ΜΑΛΓΑΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LOYDIAS - MALGARA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90A;1;391;;Revenue;;35064.09;ΜΑΛΓΑΡΑ - ΛΟΥΔΙΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - LOYDIAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90B;1;1847;;Revenue;;48173.18;ΑΚΡΟΠΟΤΑΜΟΣ - ΜΑΛΓΑΡΑ-ΤΡΙΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - MALGARA-TRITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90B;0;392;;Revenue;;48044.39;ΑΚΡΟΠΟΤΑΜΟΣ - ΜΑΛΓΑΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - MALGARA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90B;1;813;;Revenue;;49255.13;ΜΑΛΓΑΡΑ - ΑΚΡΟΠΟΤΑΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - AKROPOTAMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90E;1;1296;;Revenue;;17283.23;ΑΚΡΟΠΟΤΑΜΟΣ - ΚΟΥΦΑΛΙΑ-ΤΡΙΤΗ;;;;;;;;ΜΕΤΑΒΑΣΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - KOYFALIA-TRITI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90E;1;1313;;Revenue;;18584.64;ΚΟΥΦΑΛΙΑ - ΑΚΡΟΠΟΤΑΜΟΣ-ΤΡΙΤΗ;;;;;;;;ΕΠΙΣΤΡΟΦΗ ΤΡΙΤΗΣ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - AKROPOTAMOS-TRITI;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90E;0;748;;Revenue;;17299.21;ΑΚΡΟΠΟΤΑΜΟΣ - ΚΟΥΦΑΛΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;AKROPOTAMOS - KOYFALIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90E;1;814;;Revenue;;17730.18;ΚΟΥΦΑΛΙΑ - ΑΚΡΟΠΟΤΑΜΟΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - AKROPOTAMOS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;90K;0;750;;Revenue;;23342.51;ΧΑΛΚΗΔΟΝΑ - ΜΑΛΓΑΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;CHALKIDONA - MALGARA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;90K;1;751;;Revenue;;24044.54;ΜΑΛΓΑΡΑ - ΧΑΛΚΗΔΟΝΑ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;MALGARA - CHALKIDONA;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91A;0;1198;;Revenue;;14503.81;ΛΑΓΚΑΔΑΣ - ΑΝΑΛΗΨΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - ANALIPSI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91A;1;1199;;Revenue;;14230.47;ΑΝΑΛΗΨΗ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;ANALIPSI - LAGKADAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91B;0;1185;;Revenue;;18089.84;ΛΑΓΚΑΔΑΣ - ΑΝΑΛΗΨΗ (ΣΧΟΛΕΙΑ);;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - ANALIPSI (SCHOLEIA);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91B;1;1197;;Revenue;;18194.45;ΑΝΑΛΗΨΗ - ΛΑΓΚΑΔΑΣ (ΣΧΟΛΕΙΑ);;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;ANALIPSI - LAGKADAS (SCHOLEIA);;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91E;0;1248;;Revenue;;22183.28;ΛΑΓΚΑΔΑΣ - ΑΣΣΗΡΟΣ - ΚΡΙΘΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - ASSIROS - KRITHIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91E;1;1249;;Revenue;;16551.45;ΚΡΙΘΙΑ - ΑΣΣΗΡΟΣ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;KRITHIA - ASSIROS - LAGKADAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91H;0;1417;;Revenue;;25157.09;ΛΑΓΚΑΔΑΣ - ΛΑΓΥΝΑ - ΛΑΓΚΑΔΑΣ (ΗΡΑΚΛΕΙΟ - ΠΕΡΙΒΟΛΑΚΙ);;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - LAGYNA - LAGKADAS (IRAKLEIO - PERIVOLAKI);;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91K;0;1418;;Revenue;;16726.67;ΛΑΓΚΑΔΑΣ - ΚΑΒΑΛΛΑΡΙ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - KAVALLARI - LAGKADAS;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91N;0;1865;;Revenue;;2692.38;ΛΑΓΚΑΔΑΣ - ΟΙΚΙΣΜΟΣ ΠΑΠΑΚΥΡΙΑΖΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - OIKISMOS PAPAKYRIAZI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91N;1;1866;;Revenue;;3707.38;ΟΙΚΙΣΜΟΣ ΠΑΠΑΚΥΡΙΑΖΗ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;OIKISMOS PAPAKYRIAZI - LAGKADAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91T;0;1419;;Revenue;;31536.68;ΛΑΓΚΑΔΑΣ - ΛΑΓΚΑΔΙΚΙΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - LAGKADIKIA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91T;1;1420;;Revenue;;29430.23;ΛΑΓΚΑΔΙΚΙΑ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;LAGKADIKIA - LAGKADAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91X;0;1202;;Revenue;;4317.1;ΛΑΓΚΑΔΑΣ - ΧΡΥΣΑΥΓΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;LAGKADAS - CHRYSAYGI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;91X;1;1203;;Revenue;;5252.19;ΧΡΥΣΑΥΓΗ - ΛΑΓΚΑΔΑΣ;;;;;;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;KTEL_Thessalonikis;;CHRYSAYGI - LAGKADAS;;ΕΠΙΣΤΡΟΦΗ
+2590;KTEL_T;Def;91Y;0;1992;;Revenue;;16655.27;ΧΡΥΣΑΥΓΗ - ΑΝΑΛΗΨΗ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;CHRYSAYGI - ANALIPSI;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;92;0;903;;Revenue;;21601.35;ΚΟΥΦΑΛΙΑ-ΑΘΥΡΑ-ΡΑΧΩΝΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA-ATHYRA-RACHONA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;92A;0;465;;Revenue;;11593.47;ΚΟΥΦΑΛΙΑ - ΑΘΥΡΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - ATHYRA;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;92E;0;505;;Revenue;;4608.98;ΚΟΥΦΑΛΙΑ - ΕΡΓΑΤΙΚΕΣ ΚΑΤΟΙΚΙΕΣ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - ERGATIKES KATOIKIES;;ΜΕΤΑΒΑΣΗ
+2590;KTEL_T;Def;92P;0;466;;Revenue;;11708.88;ΚΟΥΦΑΛΙΑ - ΡΑΧΩΝΑ;;;;;;;;ΜΕΤΑΒΑΣΗ;;;1;;;KTEL_Thessalonikis;;KOYFALIA - RACHONA;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;99;0;00;;Revenue;;;ΔΟΚΙΜΑΣΤΙΚΗ ΛΕΙΤΟΥΡΓΙΑ;;;0;0;0;;;TEST;;;1;;;;;TEST;;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;X5;0;951;;Revenue;;;ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ-ΝΟΗΣΙΣ;;;0;0;0;;;ΜΕΤΑΒΑΣΗ;;;1;;;Stavroupoli;2025-06-01;STATHMOS METRO N. ELVETIA-NOISIS;2025-05-30;ΜΕΤΑΒΑΣΗ
+2590;OASTH;Def;X5;1;952;;Revenue;;;ΝΟΗΣΙΣ - ΣΤΑΘΜΟΣ ΜΕΤΡΟ Ν. ΕΛΒΕΤΙΑ;;;0;0;0;;;ΕΠΙΣΤΡΟΦΗ;;;1;;;stavroupoli;2025-06-01;NOISIS - STATHMOS METRO N. ELVETIA;2025-05-30;ΕΠΙΣΤΡΟΦΗ
