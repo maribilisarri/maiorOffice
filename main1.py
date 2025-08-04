@@ -833,8 +833,12 @@ def duties():
     os.makedirs(short_dir, exist_ok=True)
     print("▶ Δημιουργία Duties…")
 
+
+    #continue
+
     for file in os.listdir(combined_blocks_dir):
-        if not file.endswith('_combined.csv'):
+        # if not file.endswith('.csv') or '_combined' not in file:
+        if not file.endswith('.csv'):
             continue
         # output3 = pd.read_csv(os.path.join(blocks_dir, file), sep=';', dtype=str)
 
@@ -1218,34 +1222,41 @@ def after_insert_day_type():
 if __name__ == '__main__':
 
 
-    clean_timetable_dir()
+    #clean_timetable_dir()
     ######## take new pattern-patternAttribute csv!!!!! export maior network
-    timetable_and_combine()
-
+    #timetable_and_combine()
     #-----createdepot sthlh telos timetable.csv apo patternAttributes
     timestamp = datetime.now().strftime('%Y%m%d_%H%M')
-    combined_output_path = f'output/{timestamp}_combined_all_timetables.csv'
-    create_depot_timetables(combined_output_path)
+    #combined_output_path = f'output/{timestamp}_combined_all_timetables.csv'
+    #create_depot_timetables(combined_output_path)
 
+    #Δημιουργεί αρχικό αρχείο days_mapping.txt με μοναδικούς συνδυασμούς:correct_depot---OPERATINGDAY
+    # #από το combined_all_timetables.csv, και αφήνει κενό το DayType.
     #create_days_mapping_file( combined_csv_path='output/combined_all_timetables.csv',output_txt_path='output/days_mapping.txt')
 
 
     #-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-    #-----auto meta to maior kai daytype------#
+    #-----auto meta to maior kai daytype------Να μετατρέψει  τη μία γραμμή σε δύο γραμμές#
     #after_insert_day_type()
 
 
+    #Auto den xero an voithaei en telei
+    #Ενημερώνει το days_mapping.txt χρησιμοποιώντας το αρχείο Operating_Days.csv από τον φάκελο static.
     #update_days_mapping_from_static(mapping_txt_path='output/days_mapping.txt',static_csv_path='static/Operating_Days.csv')
 
-    clean_blocks_dir()
-    blocks_and_mergedDepotDaytype(combined_output_path)
+    #clean_blocks_dir()
+    #combined_output_path = 'output/20250730_1333_combined_all_timetables.csv'
+    #blocks_and_mergedDepotDaytype(combined_output_path)
 
-    #clean_duties_dir()
-    #setup_log()
-    #duties()
-    #final_duties()
+
+
+    ###### afou ginoun validate ta blocks kano export shift->export vehicle blocks-> to metonomazo se static/Vehicle_block_deadheads.csv
+    clean_duties_dir()
+    setup_log()
+    duties()
+    final_duties()
 
 
 
