@@ -1,0 +1,29 @@
+PROJECT;DAYTYPE;DESCRIPTION;RUNNING_TIME_LEVEL;REACHMATRIX;TRANSFMATRIX;daymap;name
+Foinika;Day Type 1;;P1;Reaching_default;Test;0110100;ΤΡ-ΤΕ-ΠΑ
+Foinika;Day Type 2;;P1;Reaching_default;Test;0001000;ΠΕΜΠΤΗ
+Foinika;Day Type 3;;P1;Reaching_default;Test;0000010;ΣΑΒΒΑΤΟ
+Foinika;Day Type 4;;P1;Reaching_default;Test;0000001;ΚΥΡΙΑΚΗ
+Foinika;Day Type 5;;P1;Reaching_default;Test;1000000;ΔΕΥΤΕΡΑ
+
+H_Depot;Day Type 1;;P1;Reaching_default;Test;1111100;ΔΕ-ΤΡ-ΤΕ-ΠΕ-ΠΑ
+H_Depot;Day Type 2;;P1;Reaching_default;Test;0000010;ΣΑΒΒΑΤΟ
+H_Depot;Day Type 3;;P1;Reaching_default;Test;0000001;ΚΥΡΙΑΚΗ
+
+S_Depot;Day Type 1;;P1;Reaching_default;Test;0101100;ΤΡ-ΠΕ-ΠΑ
+S_Depot;Day Type 2;;P1;Reaching_default;Test;0010000;ΤΕΤΑΡΤΗ
+S_Depot;Day Type 3;;P1;Reaching_default;Test;0000010;ΣΑΒΒΑΤΟ
+S_Depot;Day Type 4;;P1;Reaching_default;Test;0000001;ΚΥΡΙΑΚΗ
+S_Depot;Day Type 5;;P1;Reaching_default;Test;1000000;ΔΕΥΤΕΡΑ
+
+Stavroupoli;Day Type 1;;P1;Reaching_default;Test;1110100;ΔΕ-ΤΡ-ΤΕ-ΠΑ
+Stavroupoli;Day Type 2;;P1;Reaching_default;Test;0001000;ΠΕΜΠΤΗ
+Stavroupoli;Day Type 3;;P1;Reaching_default;Test;0000010;ΣΑΒΒΑΤΟ
+Stavroupoli;Day Type 4;;P1;Reaching_default;Test;0000001;ΚΥΡΙΑΚΗ
+
+T_Depot;Day Type 1;;P1;Reaching_default;Test;0100000;ΤΡΙΤΗ
+T_Depot;Day Type 2;;P1;Reaching_default;Test;0010000;ΤΕΤΑΡΤΗ
+T_Depot;Day Type 3;;P1;Reaching_default;Test;0001000;ΠΕΜΠΤΗ
+T_Depot;Day Type 4;;P1;Reaching_default;Test;0000100;ΠΑΡΑΣΚΕΥΗ
+T_Depot;Day Type 5;;P1;Reaching_default;Test;0000010;ΣΑΒΒΑΤΟ
+T_Depot;Day Type 6;;P1;Reaching_default;Test;0000001;ΚΥΡΙΑΚΗ
+T_Depot;Day Type 7;;P1;Reaching_default;Test;1000000;ΔΕΥΤΕΡΑ

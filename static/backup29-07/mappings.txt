@@ -1,6 +1,0 @@
-depot;mapping
-H_Depot;KTEL_H
-S_Depot;KTEL_S
-T_Depot;KTEL_T
-Foinika;OASTH
-Stavroupoli;OASTH

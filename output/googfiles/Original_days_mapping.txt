@@ -1,0 +1,8 @@
+correct_depot;OPERATINGDAY;DayType
+Foinika;ΚΑΘΗΜΕΡΙΝΗ;
+Foinika;ΚΥΡΙΑΚΗ-ΑΡΓΙΕΣ;
+Foinika;ΣΑΒΒΑΤΟ;
+S_Depot;ΚΑΘΗΜΕΡΙΝΗ-ΣΑΒΒΑΤΟ-ΚΥΡΙΑΚΗ-Χ;
+Stavroupoli;ΚΑΘΗΜΕΡΙΝΗ;
+Stavroupoli;ΚΥΡΙΑΚΗ-ΑΡΓΙΕΣ;
+Stavroupoli;ΣΑΒΒΑΤΟ;
