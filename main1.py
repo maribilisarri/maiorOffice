@@ -1118,9 +1118,10 @@ def update_days_mapping_from_static(mapping_txt_path, static_csv_path):
             how='left'
         )
         # Τελικές στήλες για αποθήκευση
-        merged = merged[['correct_depot', 'OPERATINGDAY', 'Day_Map']]
-
-        merged["Day_Map"]=None
+        #merged = merged[['correct_depot', 'OPERATINGDAY', 'Day_Map']]
+        #merged["Day_Map"]=None
+        # Επιλογή στηλών: κρατάμε και DayType και Day_Map
+        merged = merged[['correct_depot', 'OPERATINGDAY', 'Day_Map', 'DayType']]
 
         # Αντικαθιστούμε τη στήλη
 
@@ -1233,30 +1234,33 @@ if __name__ == '__main__':
     #Δημιουργεί αρχικό αρχείο days_mapping.txt με μοναδικούς συνδυασμούς:correct_depot---OPERATINGDAY
     # #από το combined_all_timetables.csv, και αφήνει κενό το DayType.
     #create_days_mapping_file( combined_csv_path='output/combined_all_timetables.csv',output_txt_path='output/days_mapping.txt')
+    #καλυτερα να το αποθηκευω σε static οχι output και θα μπορουσα να βαλω καλυτεα και το ονομα του input αρχείου
+    #create_days_mapping_file( combined_csv_path='output/combined_all_timetables.csv',output_txt_path='output/days_mapping.txt')
+
 
 
     #-----------------------------------------------------------------------------------------------------------------------------------------------------
 
-
+    # Ενημερώνει το days_mapping.txt χρησιμοποιώντας το αρχείο Operating_Days.csv από τον φάκελο static.
+    #update_days_mapping_from_static(mapping_txt_path='output/days_mapping.txt',static_csv_path='static/Operating_Days.csv')
     #-----auto meta to maior kai daytype------Να μετατρέψει  τη μία γραμμή σε δύο γραμμές#
     #after_insert_day_type()
 
 
-    #Auto den xero an voithaei en telei
-    #Ενημερώνει το days_mapping.txt χρησιμοποιώντας το αρχείο Operating_Days.csv από τον φάκελο static.
-    #update_days_mapping_from_static(mapping_txt_path='output/days_mapping.txt',static_csv_path='static/Operating_Days.csv')
+
 
     #clean_blocks_dir()
-    #combined_output_path = 'output/20250730_1333_combined_all_timetables.csv'
+    #πρεπει να αλλαζω το ονομα του αρχείουcombined_all_timetables.csv
+    # #combined_output_path = 'output/20250730_1333_combined_all_timetables.csv'
     #blocks_and_mergedDepotDaytype(combined_output_path)
 
 
 
     ###### afou ginoun validate ta blocks kano export shift->export vehicle blocks-> to metonomazo se static/Vehicle_block_deadheads.csv
-    clean_duties_dir()
-    setup_log()
-    duties()
-    final_duties()
+    #clean_duties_dir()
+    #setup_log()
+    #duties()
+    #final_duties()
 
 
 

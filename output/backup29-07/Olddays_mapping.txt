@@ -1,4 +1,4 @@
-correct_depot;OPERATINGDAY;Day_Map
+correct_depot;OPERATINGDAY;Day_Map;DayType
 Foinika;ΤΡ-ΤΕ-ΠΑ;0110100;[Day Type 1]
 Foinika;ΠΕΜΠΤΗ;0001000;[Day Type 2]
 Foinika;ΚΑΘΗΜΕΡΙΝΗ;1111100;[Day Type 1,Day Type 2,Day Type 5]
