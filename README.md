@@ -72,6 +72,9 @@ TODO_LOGS
   output/combined_all_timetables.csv, static/PatternAttributes.csv, static/DEPOTS.txt -> output/{timestamp}_combined_all_timetables.csv με στήλη correct_depot
 Εμπλουτίζει το αρχείο timetables με τη σωστή πληροφορία για το depot κάθε γραμμής μέσω mapping.
 
+- after_insert_day_type(): 
+output/days_mapping.txt -> output/expanded_days_mapping.csv
+Επεξεργάζεται πολλαπλά DayTypes (σε λίστα) για κάθε depot/μέρα. Δημιουργεί πολλαπλές γραμμές ανά DayType για χρήση στα blocks.
 
 
 
@@ -85,65 +88,64 @@ TODO_LOGS
 
 
 
+ def check_pattern_line_consistency(
+     excel_csv_path='output/combined_all_timetables.csv',
+     pattern_attributes_path='static/PatternAttributes.csv',
+     log_output_path='output/line_consistency_log.txt'
+ ):
+     """
+     Ελέγχει αν τα PATTERNs που εμφανίζονται στο Excel έχουν:
+     1. Αντιστοίχιση στο PatternAttributes.csv
+     2. Την ίδια τιμή LINE
 
-# def check_pattern_line_consistency(
-#     excel_csv_path='output/combined_all_timetables.csv',
-#     pattern_attributes_path='static/PatternAttributes.csv',
-#     log_output_path='output/line_consistency_log.txt'
-# ):
-#     """
-#     Ελέγχει αν τα PATTERNs που εμφανίζονται στο Excel έχουν:
-#     1. Αντιστοίχιση στο PatternAttributes.csv
-#     2. Την ίδια τιμή LINE
-#
-#     Δημιουργεί log αρχείο με όποιες ασυνέπειες εντοπιστούν.
-#     """
-#
-#     try:
-#         # Φόρτωση αρχείων
-#         excel_df = pd.read_csv(excel_csv_path, sep=';', dtype=str)
-#         pattern_attrs = pd.read_csv(pattern_attributes_path, sep=';', dtype=str)
-#
-#         # Καθαρισμός και προετοιμασία
-#         excel_patterns = excel_df[['PATTERN', 'LINE']].dropna().drop_duplicates()
-#         pattern_attrs = pattern_attrs[['PATTERNCODE', 'LINE']].dropna().drop_duplicates()
-#         pattern_attrs = pattern_attrs.rename(columns={'PATTERNCODE': 'PATTERN', 'LINE': 'STATIC_LINE'})
-#
-#         # Merge PATTERNs
-#         merged = excel_patterns.merge(pattern_attrs, on='PATTERN', how='left')
-#
-#         # Αρχικοποίηση λίστας log
-#         log_lines = []
-#
-#         # 1. Λείποντα PATTERNs
-#         missing_patterns = merged[merged['STATIC_LINE'].isna()]
-#         for _, row in missing_patterns.iterrows():
-#             log_lines.append(
-#                 f"❌ PATTERN {row['PATTERN']} με LINE={row['LINE']} στο Excel ΔΕΝ βρέθηκε στο PatternAttributes.csv"
-#             )
-#
-#         # 2. Ασυμφωνία LINE
-#         mismatch_patterns = merged[
-#             (~merged['STATIC_LINE'].isna()) &
-#             (merged['LINE'] != merged['STATIC_LINE'])
-#         ]
-#         for _, row in mismatch_patterns.iterrows():
-#             log_lines.append(
-#                 f"🔍 PATTERN {row['PATTERN']}: Στο Excel LINE={row['LINE']}, αλλά στο PatternAttributes.csv LINE={row['STATIC_LINE']} ❗"
-#             )
-#
-#         # Δημιουργία φακέλου output αν δεν υπάρχει
-#         os.makedirs(os.path.dirname(log_output_path), exist_ok=True)
-#
-#         # Αποθήκευση αρχείου log
-#         with open(log_output_path, 'w', encoding='utf-8') as f:
-#             for line in log_lines:
-#                 f.write(line + '\n')
-#
-#         print(f"✅ Ολοκληρώθηκε έλεγχος. Καταγράφηκαν {len(log_lines)} περιπτώσεις στο {log_output_path}")
-#
-#     except Exception as e:
-#         print(f"❌ Σφάλμα στον έλεγχο consistency: {e}")
+     Δημιουργεί log αρχείο με όποιες ασυνέπειες εντοπιστούν.
+     """
+
+     try:
+         # Φόρτωση αρχείων
+         excel_df = pd.read_csv(excel_csv_path, sep=';', dtype=str)
+         pattern_attrs = pd.read_csv(pattern_attributes_path, sep=';', dtype=str)
+
+         # Καθαρισμός και προετοιμασία
+         excel_patterns = excel_df[['PATTERN', 'LINE']].dropna().drop_duplicates()
+         pattern_attrs = pattern_attrs[['PATTERNCODE', 'LINE']].dropna().drop_duplicates()
+         pattern_attrs = pattern_attrs.rename(columns={'PATTERNCODE': 'PATTERN', 'LINE': 'STATIC_LINE'})
+
+         # Merge PATTERNs
+         merged = excel_patterns.merge(pattern_attrs, on='PATTERN', how='left')
+
+         # Αρχικοποίηση λίστας log
+         log_lines = []
+
+         # 1. Λείποντα PATTERNs
+         missing_patterns = merged[merged['STATIC_LINE'].isna()]
+         for _, row in missing_patterns.iterrows():
+             log_lines.append(
+                 f"❌ PATTERN {row['PATTERN']} με LINE={row['LINE']} στο Excel ΔΕΝ βρέθηκε στο PatternAttributes.csv"
+             )
+
+         # 2. Ασυμφωνία LINE
+         mismatch_patterns = merged[
+             (~merged['STATIC_LINE'].isna()) &
+             (merged['LINE'] != merged['STATIC_LINE'])
+         ]
+         for _, row in mismatch_patterns.iterrows():
+             log_lines.append(
+                 f"🔍 PATTERN {row['PATTERN']}: Στο Excel LINE={row['LINE']}, αλλά στο PatternAttributes.csv LINE={row['STATIC_LINE']} ❗"
+             )
+
+         # Δημιουργία φακέλου output αν δεν υπάρχει
+         os.makedirs(os.path.dirname(log_output_path), exist_ok=True)
+
+         # Αποθήκευση αρχείου log
+         with open(log_output_path, 'w', encoding='utf-8') as f:
+             for line in log_lines:
+                 f.write(line + '\n')
+
+         print(f"✅ Ολοκληρώθηκε έλεγχος. Καταγράφηκαν {len(log_lines)} περιπτώσεις στο {log_output_path}")
+
+     except Exception as e:
+         print(f"❌ Σφάλμα στον έλεγχο consistency: {e}")
 
 
 
@@ -153,30 +155,28 @@ TODO_LOGS
 
 
 def assign_times(group):
-            #     try:
-            #         dep_time_str = input_df.loc[group['MERGE_KEY'].iloc[0], 'ΑΝΑΧΩΡΗΣΗ']
-            #         arr_time_str = input_df.loc[group['MERGE_KEY'].iloc[0], 'ΤΕΡΜΑ']
-            #
-            #         dep_time = parse_extended_time(dep_time_str)
-            #         arr_time = parse_extended_time(arr_time_str)
-            #
-            #         if pd.isna(dep_time) or pd.isna(arr_time):
-            #             return group  # Αν δεν υπάρχουν, μην κάνεις τίποτα
-            #
-            #         n = len(group)
-            #         total_duration = (arr_time - dep_time).total_seconds()
-            #
-            #         for i, idx in enumerate(group.index):
-            #             t = dep_time + timedelta(seconds=(i / (n - 1)) * total_duration)
-            #             time_str = t.strftime('%H:%M:%S')
-            #             group.at[idx, 'ARRIVALTIME'] = time_str
-            #             group.at[idx, 'DEPARTURETIME'] = time_str
-            #
-            #     except Exception as e:
-            #         print(f"Σφάλμα στην ώρα για MERGE_KEY={group['MERGE_KEY'].iloc[0]}: {e}")
-            #
-            #     return group
+                 try:
+                     dep_time_str = input_df.loc[group['MERGE_KEY'].iloc[0], 'ΑΝΑΧΩΡΗΣΗ']
+                     arr_time_str = input_df.loc[group['MERGE_KEY'].iloc[0], 'ΤΕΡΜΑ']
+            
+                     dep_time = parse_extended_time(dep_time_str)
+                     arr_time = parse_extended_time(arr_time_str)
+            
+                     if pd.isna(dep_time) or pd.isna(arr_time):
+                         return group  # Αν δεν υπάρχουν, μην κάνεις τίποτα
+            
+                     n = len(group)
+                     total_duration = (arr_time - dep_time).total_seconds()
+            
+                     for i, idx in enumerate(group.index):
+                         t = dep_time + timedelta(seconds=(i / (n - 1)) * total_duration)
+                         time_str = t.strftime('%H:%M:%S')
+                         group.at[idx, 'ARRIVALTIME'] = time_str
+                         group.at[idx, 'DEPARTURETIME'] = time_str
+            
+                 except Exception as e:
+                     print(f"Σφάλμα στην ώρα για MERGE_KEY={group['MERGE_KEY'].iloc[0]}: {e}")
+            
+                 return group
 
-- after_insert_day_type(): 
-output/days_mapping.txt -> output/expanded_days_mapping.csv
-Επεξεργάζεται πολλαπλά DayTypes (σε λίστα) για κάθε depot/μέρα. Δημιουργεί πολλαπλές γραμμές ανά DayType για χρήση στα blocks.
+
